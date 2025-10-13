@@ -5,9 +5,9 @@ lang: es
 
 # **Convocatoria de propuestas**
 
-### **Colección de Literatura Electrónica, Volumen 5**
+## **Colección de Literatura Electrónica, Volumen 5**
 
-### **Plazo de presentación de propuestas: del 13 de octubre de 2025 al 6 de enero de 2026**
+Plazo de presentación de propuestas: del 13 de octubre de 2025 al 6 de enero de 2026
 
 La Organización de Literatura Electrónica (ELO) solicita propuestas para el volumen 5 de la Colección de Literatura Electrónica.
 
@@ -32,7 +32,7 @@ En el caso de obras en las que no tenga sentido realizar un _derivado_, un perfo
 
 ## **Cómo enviar las obras propuestas**
 
-Envía tu propuesta utilizando **este formulario**.
+Envía tu propuesta utilizando [https://forms.gle/Ftir1rj4NBoBBNJJA](este formulario).
 
 Envía lo siguiente:
 
@@ -41,7 +41,7 @@ Envía lo siguiente:
 - (Opcional) _Derivado_: grabación de un recorrido por la obra o documentación que muestre las características principales, la estética y la esencia de la obra si no se puede acceder a ella, reproducirla o interactuar con ella fácilmente.
 - Una breve declaración del artista o autor, incluyendo cualquier advertencia relevante sobre el contenido (unas 200 palabras).
 
-## **Fecha límite: 6 de enero de 2026**
+**Fecha límite**: 6 de enero de 2026
 
 ## **El colectivo editorial de ELC5**
 
