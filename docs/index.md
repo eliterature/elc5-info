@@ -11,47 +11,47 @@ The **Electronic Literature Organization (ELO)** seeks submissions for Volume 5 
 
 This call for submissions is available in the following languages. Click on any language below to read the full details:
 
-### [English](/EN/) 🇺🇸
+### [English](elc5-info/EN/) 🇺🇸
 
 Read the call for submissions in English.
 
-### [Español](/ES/) 🇪🇸
+### [Español](elc5-info/ES/) 🇪🇸
 
 Lea la convocatoria en español.
 
-### [Français](/FR/) 🇫🇷
+### [Français]elc5-info/(/FR/) 🇫🇷
 
 Lisez l'appel à contributions en français.
 
-### [Deutsch](/DE/) 🇩🇪
+### [Deutsch](elc5-info/DE/) 🇩🇪
 
 Lesen Sie den Aufruf zur Einreichung auf Deutsch.
 
-### [Italiano](/IT/) 🇮🇹
+### [Italiano](elc5-info//IT/) 🇮🇹
 
 Leggi la call per i contributi in italiano.
 
-### [日本語](/JA/) 🇯🇵
+### [日本語](elc5-info//JA/) 🇯🇵
 
 日本語での募集要項をお読みください。
 
-### [العربية](/AR/) 🇸🇦
+### [العربية](elc5-info//AR/) 🇸🇦
 
 اقرأ دعوة المساهمات باللغة العربية.
 
-### [Dansk](/DA/) 🇩🇰
+### [Dansk](elc5-info//DA/) 🇩🇰
 
 Læs opfordringen til bidrag på dansk.
 
-### [Suomi](/FI/) 🇫🇮
+### [Suomi](elc5-info//FI/) 🇫🇮
 
 Lue kutsu osallistumiseen suomeksi.
 
-### [Português (Brasil)](/PT-BR/) 🇧🇷
+### [Português (Brasil)](elc5-info//PT-BR/) 🇧🇷
 
 Leia a chamada para submissões em português brasileiro.
 
-### [Português (Portugal)](/PT-PT/) 🇵🇹
+### [Português (Portugal)](elc5-info//PT-PT/) 🇵🇹
 
 Leia a chamada para submissões em português europeu.
 
