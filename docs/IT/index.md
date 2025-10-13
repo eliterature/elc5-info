@@ -1,6 +1,7 @@
 # Bando per la presentazione di proposte
 
-Electronic Literature Collection Volume 5\
+## Electronic Literature Collection Volume 5
+
 Accettazione proposte: 13 ottobre 2025 - 6 gennaio 2026
 
 La Electronic Literature Organization (ELO) è alla ricerca di proposte
