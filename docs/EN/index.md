@@ -3,9 +3,9 @@ layout: default
 lang: en
 ---
 
-# Call for Submissions
+## Call for Submissions
 
-## Electronic Literature Collection Volume 5
+### Electronic Literature Collection Volume 5
 
 Accepting submissions: October 13, 2025 - January 6, 2026
 

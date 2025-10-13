@@ -3,9 +3,9 @@ layout: default
 lang: fr
 ---
 
-# Appel à contributions
+## Appel à contributions
 
-## Collection de littérature numérique Volume 5
+### Collection de littérature numérique Volume 5
 
 Dates limites de soumission des propositions: 13 octobre 2025 - 6
 janvier 2026

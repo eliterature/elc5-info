@@ -3,9 +3,9 @@ layout: default
 lang: da
 ---
 
-# Indkaldelse af bidrag
+## Indkaldelse af bidrag
 
-## Electronic Literature Collection Volume 5
+### Electronic Literature Collection Volume 5
 
 Indsend dit bidrag mellem d. 13. oktober 2025 og d. 6. januar 2026
 

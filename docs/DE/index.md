@@ -3,9 +3,9 @@ layout: default
 lang: de
 ---
 
-# Aufruf zur Einreichung von Beiträgen
+## Aufruf zur Einreichung von Beiträgen
 
-## Electronic Literature Collection Volume 5
+### Electronic Literature Collection Volume 5
 
 Einreichungsfrist: 13. Oktober 2025 bis 6. Januar 2026
 

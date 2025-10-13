@@ -3,9 +3,9 @@ layout: default
 lang: pt-br
 ---
 
-# Chamada para Submissões
+## Chamada para Submissões
 
-## Electronic Literature Collection Volume 5
+### Electronic Literature Collection Volume 5
 
 Submissões abertas: 13 de outubro de 2025 -- 6 de janeiro de 2026
 

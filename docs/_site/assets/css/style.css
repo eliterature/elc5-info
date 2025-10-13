@@ -32,12 +32,10 @@ body { font-family: "Manrope",-apple-system, BlinkMacSystemFont, "Segoe UI", Hel
 
 .site-title a:visited:hover, .site-title a:visited:focus { color: #222 !important; }
 
-/*.site-title a:visited { color: white !important;
-}
+.site-subtitle { font-size: 1.8rem; color: #222; font-family: "Lexend"; font-weight: 300; text-align: center; margin: 0.5rem 0 1rem 0; opacity: 0.8; }
 
-.site-title a:visited:hover,
-.site-title a:visited:focus { color: white !important;
-}*/
+.language-heading { margin: 0 0 0.5rem 0; font-size: 1.1rem; color: #495057; font-weight: 600; }
+
 .site-description { font-size: 1.2rem; margin: 0.5rem 0 0 0; opacity: 0.9; font-weight: 300; }
 
 /* Language navigation */

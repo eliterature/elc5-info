@@ -3,9 +3,9 @@ layout: default
 lang: ja
 ---
 
-# 作品募集のお知らせ
+## 作品募集のお知らせ
 
-## 電子文学コレクション 第5巻
+### 電子文学コレクション 第5巻
 
 Electronic Literature Collection (ELC), Volume 5
 
@@ -91,4 +91,3 @@ Traversals**（**トラバーサル）について**
 ## ご質問／お問い合わせ先
 
 メール： <elcvol5@gmail.com>
-
