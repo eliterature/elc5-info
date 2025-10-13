@@ -86,7 +86,8 @@ não simplesmente funcionar como um *trailer*.
 
 ## Como fazer sua submissão
 
-Por favor, envie as submissões **usando este formulário**.\
+Por favor, envie as submissões usando [este formulário](https://forms.gle/Ftir1rj4NBoBBNJJA).
+
 **Por favor, inclua o seguinte:**
 
 - A obra (se tiver menos de 1 GB no total em formato ZIP) ou link para a obra hospedada em uma plataforma como Itch.io, hospedagem web ou serviço de hospedagem de arquivos como Dropbox ou Google Drive.

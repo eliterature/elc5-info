@@ -100,7 +100,7 @@ Arbeit dient.
 
 ## So reichen Sie Ihre Beiträge ein
 
-Bitte reichen Sie Ihre Beiträge **über dieses Formular** ein**.**
+Bitte reichen Sie Ihre Beiträge über [dieses Formular](https://forms.gle/Ftir1rj4NBoBBNJJA) ein.
 
 **Bitte reichen Sie Folgendes ein:**
 

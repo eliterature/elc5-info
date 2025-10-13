@@ -84,7 +84,7 @@ não simplesmente funcionar como um *trailer*.
 
 ## Como submeter
 
-Por favor, envie as submissões **através deste formulário**.
+Por favor, envie as submissões através [deste formulário](https://forms.gle/Ftir1rj4NBoBBNJJA).
 
 **Por favor, inclua o seguinte:**
 

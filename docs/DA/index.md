@@ -88,7 +88,7 @@ kerneaspekter af værket som ikke blot fungerer som en trailer.
 
 ## Sådan indsender du et værk
 
-Indsend værker **ved at benytte denne formular**.
+Indsend værker ved at benytte [denne formular](https://forms.gle/Ftir1rj4NBoBBNJJA).
 
 **Inkluder følgende:**
 

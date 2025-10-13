@@ -91,7 +91,7 @@ trailer dell\'opera.
 
 ## Come presentare le proposte
 
-Si prega di inviare le candidature **utilizzando questo modulo**.
+Si prega di inviare le candidature utilizzando [questo modulo](https://forms.gle/Ftir1rj4NBoBBNJJA).
 
 **Si prega di inviare quanto segue:**
 

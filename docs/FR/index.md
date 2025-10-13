@@ -94,7 +94,7 @@ bande-annonce.
 
 ## Comment soumettre votre proposition
 
-Veuillez soumettre vos candidatures **via ce formulaire**.
+Veuillez soumettre vos candidatures via [ce formulaire](https://forms.gle/Ftir1rj4NBoBBNJJA).
 
 **Veuillez fournir les éléments suivants :**
 
