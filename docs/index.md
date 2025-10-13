@@ -51,6 +51,10 @@ Leia a chamada para submissões em português brasileiro.
 
 Leia a chamada para submissões em português europeu.
 
+## Translators
+
+(Add translators here.)
+
 ---
 
 ## Important Dates
