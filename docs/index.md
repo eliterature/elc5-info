@@ -15,7 +15,7 @@ This call for submissions is available in the following languages. Click on any 
 
 Read the call for submissions in English.
 
-### [Spanish](/ES/) 🇪🇸
+### [Español](/ES/) 🇪🇸
 
 Lea la convocatoria en español.
 
@@ -56,6 +56,10 @@ Leia a chamada para submissões em português europeu.
 ## Important Dates
 
 **Submission Period**: October 13, 2025 - January 6, 2026
+
+## Interested in Translating Our Call?
+
+If you are interested in translating this call for submissions into another language that is not already available, please contact us at [elcvol5@gmail.com](mailto:elcvol5@gmail.com).
 
 ## About the Electronic Literature Organization
 
