@@ -1,3 +1,8 @@
+---
+layout: default
+lang: zh
+---
+
 # 投稿征集
 
 ## 电子文学作品集-第五期（Electronic Literature Collection Volume 5）

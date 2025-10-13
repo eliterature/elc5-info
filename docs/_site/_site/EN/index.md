@@ -1,8 +1,3 @@
----
-layout: default
-lang: en
----
-
 # Call for Submissions
 
 ## Electronic Literature Collection Volume 5
@@ -35,7 +30,7 @@ place via email or social media, book apps, sound/visual/AR poetry,
 zines, games, computer-generated literature, fanfiction works, and
 others. Examples of the range of writing previously collected in Volumes
 1, 2, 3 and 4 are available at
-[http://collection.eliterature.org](http://collection.eliterature.org).
+[[http://collection.eliterature.org]{.underline}](http://collection.eliterature.org).
 
 Following past volumes, we are committed to preservation and
 documentation, with a focus on innovative work that challenges literary

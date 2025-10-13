@@ -1,12 +1,6 @@
----
-layout: default
-lang: pt-pt
----
-
 # Chamada para Submissões
 
-## Electronic Literature Collection Volume 5
-
+Electronic Literature Collection Volume 5\
 Submissões abertas: 13 de outubro de 2025 -- 6 de janeiro de 2026
 
 A Electronic Literature Organization (ELO) abre chamada para submissões
@@ -45,11 +39,18 @@ literárias. O Coletivo Editorial da ELC5 busca diversidade de forma,
 língua, identidade e cultura. Portanto, obras em qualquer idioma são
 bem-vindas. Os editores acolhem particularmente obras de:
 
-- Artistas que ainda não foram publicados em uma *Electronic Literature Collection*.
+- Artistas que ainda não foram publicados em uma *Electronic
+    > Literature Collection*.
 
-- Artistas que atuam em comunidades onde a *e-lit* é nascente e/ouobras que representem culturas do Oriente Médio e Norte da África, Povos Indígenas e nações e ilhas da Ásia.
-- Estudantes e artistas que produziram obras em sala de aula ou por conta própria.
-- Outros grupos, coletivos ou laboratórios envolvidos em todas as formas de escrita digital e literatura digital.
+- Artistas que atuam em comunidades onde a *e-lit* é nascente e/ou
+    > obras que representem culturas do Oriente Médio e Norte da África,
+    > Povos Indígenas e nações e ilhas da Ásia.
+
+- Estudantes e artistas que produziram obras em sala de aula ou por
+    > conta própria.
+
+- Outros grupos, coletivos ou laboratórios envolvidos em todas as
+    > formas de escrita digital e literatura digital.
 
 Desde o último volume da ELC, a Inteligência Artificial Generativa e à
 blockchain têm tido muita atenção. Sâo bem-vindas obras que utilizem
@@ -61,7 +62,7 @@ específicos, modelos e impactos ambientais sempre que possível e
 relevante. As declarações autorais devem ser explícitas em reconhecer
 seu uso e as motivações estéticas da obra.
 
-## Sobre documentação e vídeos de obras obsoletas ou inacessíveis
+## **Sobre documentação e vídeos de obras obsoletas ou inacessíveis**
 
 Estamos interessados em incluir a documentação de obras que, devido à
 obsolescência, descontinuação de plataformas, atributos locativos,
@@ -88,15 +89,23 @@ Por favor, envie as submissões **através deste formulário**.
 
 **Por favor, inclua o seguinte:**
 
-- A obra (se tiver menos de 1 GB no total em formato ZIP) ou link para a obra alojada em uma plataforma como Itch.io, alojada na web ou num serviço de alojamento de arquivos como Dropbox ou Google Drive.
+- A obra (se tiver menos de 1 GB no total em formato ZIP) ou link para
+    > a obra alojada em uma plataforma como Itch.io, alojada na web ou
+    > num serviço de alojamento de arquivos como Dropbox ou Google
+    > Drive.
 
-- Metadados iniciais do(s) autor(es), título da obra, descrição da obra e opções de acessibilidade.
+- Metadados iniciais do(s) autor(es), título da obra, descrição da
+    > obra e opções de acessibilidade.
 
-- (Opcional.) Gravação de um vídeo de documentação ou documentação que demonstra as características centrais, a estética e essência da obra, caso não se consegue facilmente aceder, jogar ou interagir com a obra.
+- (Opcional.) Gravação de um vídeo de documentação ou documentação que
+    > demonstra as características centrais, a estética e essência da
+    > obra, caso não se consegue facilmente aceder, jogar ou interagir
+    > com a obra.
 
-- Uma breve declaração do artista/autor, incluindo eventuais avisos de conteúdo (\~200 palavras).
+- Uma breve declaração do artista/autor, incluindo eventuais avisos de
+    > conteúdo (\~200 palavras).
 
-## Prazo final: 6 de janeiro de 2026
+## **Prazo final: 6 de janeiro de 2026**
 
 ## O Coletivo Editorial da ELC5
 
@@ -105,6 +114,6 @@ Por favor, envie as submissões **através deste formulário**.
 - Dani Spinosa
 - Zach Whalen
 
-## Dúvidas?
+### Dúvidas?
 
 E-mail: [elcvol5@gmail.com](mailto:elcvol5@gmail.com)

@@ -1,8 +1,3 @@
----
-layout: default
-lang: fr
----
-
 # Appel à contributions
 
 ## Collection de littérature numérique Volume 5

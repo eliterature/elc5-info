@@ -1,8 +1,3 @@
----
-layout: default
-lang: pt-br
----
-
 # Chamada para Submissões
 
 ## Electronic Literature Collection Volume 5

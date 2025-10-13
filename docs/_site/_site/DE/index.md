@@ -1,8 +1,3 @@
----
-layout: default
-lang: de
----
-
 # Aufruf zur Einreichung von Beiträgen
 
 ## Electronic Literature Collection Volume 5
