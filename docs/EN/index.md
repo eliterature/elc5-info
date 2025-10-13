@@ -81,7 +81,7 @@ aspects of the work and not simply function as a trailer for the work.
 
 ## How to Submit
 
-Please submit entries **using this form.**
+Please submit entries using [this form](https://forms.gle/Ftir1rj4NBoBBNJJA).
 
 **Please submit the following:**
 
