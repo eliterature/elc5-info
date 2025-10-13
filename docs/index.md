@@ -5,7 +5,7 @@ title: Call for Submissions
 
 ## Welcome to ELC5 Call for Submissions
 
-The **Electronic Literature Organization (ELO)** seeks submissions for Volume 5 of the *Electronic Literature Collection*.
+The **Electronic Literature Organization (ELO)** seeks submissions for Volume 5 of the _Electronic Literature Collection_.
 
 ## Available in Multiple Languages
 
@@ -15,7 +15,11 @@ This call for submissions is available in the following languages. Click on any 
 
 Read the call for submissions in English.
 
-### [Français](/FR/) 🇫🇷  
+### [Spanis](/ES/) 🇺🇸
+
+Lea la convocatoria en español.
+
+### [Français](/FR/) 🇫🇷
 
 Lisez l'appel à contributions en français.
 
@@ -57,4 +61,4 @@ Leia a chamada para submissões em português europeu.
 
 The Electronic Literature Organization (ELO) is an international organization dedicated to the writing, publishing, and reading of electronic literature.
 
-*For complete details, deadlines, and submission guidelines, please select your preferred language above.*
+_For complete details, deadlines, and submission guidelines, please select your preferred language above._
