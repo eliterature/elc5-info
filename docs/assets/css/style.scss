@@ -218,6 +218,49 @@ th {
   font-weight: 600;
 }
 
+/* RTL Language Support */
+[dir="rtl"] {
+  direction: rtl;
+  text-align: right;
+}
+
+[dir="rtl"] .wrapper {
+  text-align: right;
+}
+
+[dir="rtl"] h1,
+[dir="rtl"] h2,
+[dir="rtl"] h3 {
+  text-align: right;
+}
+
+[dir="rtl"] h2 {
+  border-left: none;
+  border-right: 4px solid #667eea;
+  padding-left: 0;
+  padding-right: 1rem;
+}
+
+[dir="rtl"] h1 {
+  text-align: right;
+}
+
+[dir="rtl"] blockquote {
+  border-left: none;
+  border-right: 4px solid #667eea;
+  padding-left: 0;
+  padding-right: 1.5rem;
+}
+
+[dir="rtl"] .language-list {
+  direction: ltr; /* Keep language navigation LTR for consistency */
+}
+
+[dir="rtl"] th, 
+[dir="rtl"] td {
+  text-align: right;
+}
+
 /* Footer */
 .site-footer {
   background-color: #2c3e50;
