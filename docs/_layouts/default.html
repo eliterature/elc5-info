@@ -16,6 +16,10 @@
 </head>
 
 <body>
+  <h1 class="site-title">
+    <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  </h1>
+
   <a href="#main-content" class="skip-link">Skip to main content</a>
 
   <header class="site-header">
@@ -23,9 +27,7 @@
       <div class="header-content">
         <img src="{{ "/assets/images/elc5-logo.png" | relative_url }}"
           alt="Electronic Literature Collection Volume 5 Logo" class="site-logo">
-        <h1 class="site-title">
-          <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-        </h1>
+       
       </div>
       {% if site.description %}
       <p class="site-description">{{ site.description | escape }}</p>
