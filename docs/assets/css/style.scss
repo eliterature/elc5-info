@@ -33,7 +33,8 @@
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif;
   font-size: 16px;
   line-height: 1.6;
   color: #2c3e50;
@@ -53,7 +54,7 @@ body {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
   padding: 2rem 0;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 .header-content {
@@ -160,7 +161,7 @@ body {
   background-color: #3d4a7a;
   color: white !important;
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   outline: 3px solid #fff;
   outline-offset: 2px;
 }
@@ -255,7 +256,8 @@ a:visited:hover {
 }
 
 /* Lists */
-ul, ol {
+ul,
+ol {
   margin-bottom: 1rem;
 }
 
@@ -320,7 +322,8 @@ table {
   margin-bottom: 1rem;
 }
 
-th, td {
+th,
+td {
   border: 1px solid #e9ecef;
   padding: 0.75rem;
   text-align: left;
@@ -369,7 +372,7 @@ th {
   direction: ltr; /* Keep language navigation LTR for consistency */
 }
 
-[dir="rtl"] th, 
+[dir="rtl"] th,
 [dir="rtl"] td {
   text-align: right;
 }
@@ -392,30 +395,30 @@ th {
   .wrapper {
     padding: 0 15px;
   }
-  
+
   .site-title {
     font-size: 2rem;
   }
-  
+
   .site-description {
     font-size: 1.1rem;
   }
-  
+
   .language-list {
     justify-content: center;
   }
-  
+
   .language-list a {
     font-size: 0.8rem;
     padding: 0.75rem 1rem;
     min-height: 44px;
     min-width: 44px;
   }
-  
+
   h1 {
     font-size: 1.8rem;
   }
-  
+
   .page-content {
     padding: 1rem 0;
   }
@@ -427,28 +430,28 @@ th {
     gap: 1rem;
     text-align: center;
   }
-  
+
   .site-logo {
     max-height: 60px;
   }
-  
+
   .site-title {
     font-size: 1.5rem;
   }
-  
+
   .site-description {
     font-size: 1rem;
   }
-  
+
   .language-nav {
     text-align: center;
   }
-  
+
   .language-list {
     flex-direction: column;
     align-items: center;
   }
-  
+
   .language-list a {
     width: 200px;
     text-align: center;
@@ -475,7 +478,7 @@ textarea:focus {
   .language-list a {
     border: 2px solid currentColor;
   }
-  
+
   a {
     text-decoration: underline;
     font-weight: 600;
@@ -489,7 +492,7 @@ textarea:focus {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
   }
-  
+
   .language-list a:hover,
   .language-list a:focus {
     transform: none;
@@ -497,7 +500,8 @@ textarea:focus {
 }
 
 /* Ensure sufficient line spacing for readability */
-p, li {
+p,
+li {
   line-height: 1.6;
 }
 
@@ -509,24 +513,27 @@ p, li {
   .site-footer {
     display: none;
   }
-  
+
   .page-content {
     padding: 0;
   }
-  
+
   body {
     font-size: 12pt;
     line-height: 1.4;
   }
-  
-  h1, h2, h3 {
+
+  h1,
+  h2,
+  h3 {
     page-break-after: avoid;
   }
-  
-  p, li {
+
+  p,
+  li {
     page-break-inside: avoid;
   }
-  
+
   a::after {
     content: " (" attr(href) ")";
     font-size: 0.8em;
