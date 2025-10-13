@@ -51,6 +51,14 @@ Leia a chamada para submissões em português brasileiro.
 
 Leia a chamada para submissões em português europeu.
 
+### [Русский](/RU/) 🇷🇺
+
+Прочитайте призыв к подаче материалов на русском языке.
+
+### [中文](/ZH/) 🇨🇳
+
+阅读中文版投稿征集。
+
 ## Translators
 
 (Add translators here.)
