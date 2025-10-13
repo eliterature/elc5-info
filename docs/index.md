@@ -65,7 +65,17 @@ Leia a chamada para submissões em português europeu.
 
 ## Translators
 
-(Add translators here.)
+- Kirill Azernyi (RU)
+- Hannes Bajohr (DE)
+- Andrew Campana (JA)
+- Malthe Stavning Erslev (DA)
+- Odile Farge (FR)
+- Reham Hosny (AR)
+- Roberta Iadevaia (IT)
+- Terhi Marttila (FI)
+- Vinícius Pereira (PT)
+- Weiling Wang (ZH).
+- Élika Ortega (ES)
 
 ---
 
