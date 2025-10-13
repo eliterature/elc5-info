@@ -22,17 +22,14 @@ ELC-Redaktionskollektiv, weiterhin eine große Bandbreite von Ansätzen
 elektronischer und digitaler Literatur (E-Lit) begrüßen, veranlasst uns
 diese Situation dazu, gezielt nach solchen Werken zu suchen,
 
-die einen kritischen, bewussten und reflexiven Umgang mit den Medien und
+- die einen kritischen, bewussten und reflexiven Umgang mit den Medien und
 den sie hervorbringenden technokulturellen Milieus zum Inhalt haben,
-
-die durch E-Lit ermöglichte pädagogische Ansätze privilegieren,
-
-die auf aktuelle, drängende Fragen der digitalen Kultur wie
+- die durch E-Lit ermöglichte pädagogische Ansätze privilegieren,
+- die auf aktuelle, drängende Fragen der digitalen Kultur wie
 Privatsphäre, Überwachung, Daten, Umweltauswirkungen, digitale Rechte,
 (Des-)Information und Zugangbarrieren reagieren oder darüber
 reflektieren
-
-und allgemein Werke, die E-Lit mit anderen Bereichen und Anliegen
+- und allgemein Werke, die E-Lit mit anderen Bereichen und Anliegen
 kultureller Produktion verbinden.
 
 Als literarische Werke kommen für uns alle Arbeiten in Frage, die
@@ -45,7 +42,7 @@ E-Mail oder über soziale Medien stattfinden, Buch-Apps,
 Klang-/Bild-/AR-Poesie, Zines, Spiele, computergenerierte Literatur,
 Fanfiction-Werke und andere. Beispiele für die Bandbreite der bisher in
 den Bänden 1, 2, 3 und 4 gesammelten Werke sind unter
-[[http://collection.eliterature.org]{.underline}](http://collection.eliterature.org)
+[http://collection.eliterature.org](http://collection.eliterature.org)
 zu finden.
 
 Wie schon in den vergangenen Bänden legen wir Wert auf die Bewahrung und
@@ -107,20 +104,17 @@ Bitte reichen Sie Ihre Beiträge **über dieses Formular** ein**.**
 
 **Bitte reichen Sie Folgendes ein:**
 
-Das Werk selbst (wenn die Datei im ZIP-Format kleiner als 1 GBist) oder
+- Das Werk selbst (wenn die Datei im ZIP-Format kleiner als 1 GBist) oder
 den Link zum Werk, das auf einer Plattform wie
 [Itch.io](http://itch.io), einem Webhosting- oder
 Datei-Hosting-Dienst wie Dropbox oder Google Drive gehostet wird.
-
-Metadaten zu Autor(en), Werktitel, Werkbeschreibung und Informationen
+- Metadaten zu Autor(en), Werktitel, Werkbeschreibung und Informationen
 zum barrierefreien Zugang des Werks.
-
-(Optional) Die Aufzeichnung eines Traversal oder eine andere
+- (Optional) Die Aufzeichnung eines Traversal oder eine andere
 Dokumentationsform, die die Kernfunktionen, Ästhetik und Wesen des Werks
 veranschaulicht, so es nicht ohne Weiteres zugänglich ist, abgespielt
 oder mit ihm interagiert werden kann.
-
-Eine kurze Erklärung des:r Künstler:in/Autor:in, einschließlich
+- Eine kurze Erklärung des:r Künstler:in/Autor:in, einschließlich
 relevanter Inhaltswarnungen (\~200 Wörter).
 
 **Einsendeschluss:** 6. Januar 2026
@@ -132,6 +126,6 @@ relevanter Inhaltswarnungen (\~200 Wörter).
 - Dani Spinosa
 - Zach Whalen
 
-### **Fragen?**
+## Fragen?
 
-E-Mail: [[elcvol5@gmail.com]{.underline}](mailto:elcvol5@gmail.com)
+E-Mail: [elcvol5@gmail.com](mailto:elcvol5@gmail.com)

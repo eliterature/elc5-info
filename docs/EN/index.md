@@ -102,6 +102,6 @@ Please submit entries **using this form.**
 - Dani Spinosa
 - Zach Whalen
 
-### Questions?
+## Questions?
 
 Email: [elcvol5@gmail.com](mailto:elcvol5@gmail.com)

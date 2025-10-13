@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="da">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,40 +13,43 @@
   
 </head>
 <body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  
   <header class="site-header">
     <div class="wrapper">
-      <h1 class="site-title">
+      <div class="site-title">
         <a href="/">Call for Submissions - Electronic Literature Collection Volume 5</a>
-      </h1>
+      </div>
       
         <p class="site-description">The Electronic Literature Organization (ELO) seeks submissions for Volume 5 of the Electronic Literature Collection.</p>
       
     </div>
   </header>
 
-  <nav class="language-nav">
+  <nav class="language-nav" aria-label="Language Selection">
     <div class="wrapper">
-      <h3>Available Languages:</h3>
-      <ul class="language-list">
-        <li><a href="/EN/">English</a></li>
-        <li><a href="/FR/">Français</a></li>
-        <li><a href="/DE/">Deutsch</a></li>
-        <li><a href="/IT/">Italiano</a></li>
-        <li><a href="/JA/">日本語</a></li>
-        <li><a href="/AR/">العربية</a></li>
-        <li><a href="/DA/">Dansk</a></li>
-        <li><a href="/PT-BR/">Português (BR)</a></li>
-        <li><a href="/PT-PT/">Português (PT)</a></li>
+      <h3 id="language-heading">Available Languages:</h3>
+      <ul class="language-list" role="list" aria-labelledby="language-heading">
+        <li><a href="/EN/" hreflang="en" aria-label="View in English">English</a></li>
+        <li><a href="/FR/" hreflang="fr" aria-label="Voir en français">Français</a></li>
+        <li><a href="/DE/" hreflang="de" aria-label="Auf Deutsch ansehen">Deutsch</a></li>
+        <li><a href="/IT/" hreflang="it" aria-label="Visualizza in italiano">Italiano</a></li>
+        <li><a href="/JA/" hreflang="ja" aria-label="日本語で表示">日本語</a></li>
+        <li><a href="/AR/" hreflang="ar" aria-label="عرض باللغة العربية">العربية</a></li>
+        <li><a href="/DA/" hreflang="da" aria-label="Se på dansk">Dansk</a></li>
+        <li><a href="/PT-BR/" hreflang="pt-BR" aria-label="Ver em português brasileiro">Português (BR)</a></li>
+        <li><a href="/PT-PT/" hreflang="pt-PT" aria-label="Ver em português europeu">Português (PT)</a></li>
       </ul>
     </div>
   </nav>
 
-  <main class="page-content">
+  <main class="page-content" id="main-content">
     <div class="wrapper">
-      <h1 id="indkaldelse-af-bidrag"><strong>Indkaldelse af bidrag</strong></h1>
+      <h1 id="indkaldelse-af-bidrag">Indkaldelse af bidrag</h1>
 
-<p>Electronic Literature Collection Volume 5<br />
-Indsend dit bidrag mellem d. 13. oktober 2025 og d. 6. januar 2026</p>
+<h2 id="electronic-literature-collection-volume-5">Electronic Literature Collection Volume 5</h2>
+
+<p>Indsend dit bidrag mellem d. 13. oktober 2025 og d. 6. januar 2026</p>
 
 <p>Electronic Literature Organization (ELO) søger bidrag til den femte
 udgave af <em>Electronic Literature Collection</em> (ELC).</p>
@@ -77,7 +80,7 @@ eller sociale medier, bogapps, lyd-/visuel-/AR-poesi, zines, spil,
 computergenereret litteratur, fanfiction-værker og andet. Eksempler på
 den bredde af værker, der tidligere er samlet i udgave 1, 2, 3 og 4 af
 ELC, findes på
-<a href="http://collection.eliterature.org">[http://collection.eliterature.org]{.underline}</a>.</p>
+<a href="http://collection.eliterature.org">http://collection.eliterature.org</a>.</p>
 
 <p>I tråd med tidligere udgaver af ELC vægter vi bevarelse og dokumentation
 højt, med fokus på innovativt arbejde, der udfordrer litterære normer.
@@ -86,27 +89,17 @@ form, sprog, identitet og kultur. Derfor er bidrag på alle sprog
 velkomne. Redaktionen vil især opfordre til indsendelse af værker fra:</p>
 
 <ul>
-  <li>Personer som ikke tidligere har udgivet materiale i *Electronic
-    <blockquote>
-      <p>Literature Collection*.</p>
-    </blockquote>
+  <li>
+    <p>Personer som ikke tidligere har udgivet materiale i <em>Electronic Literature Collection</em>.</p>
   </li>
-  <li>Personer fra områder hvor elektronisk litteratur ikke er
-    <blockquote>
-      <p>veletableret som genre (herunder Danmark) og/eller værker, der
-repræsenterer kulturer fra Mellemøsten og Nordafrika, oprindelige
-folkeslag samt nationer og øer i Asien.</p>
-    </blockquote>
+  <li>
+    <p>Personer fra områder hvor elektronisk litteratur ikke er veletableret som genre (herunder Danmark) og/eller værker, der repræsenterer kulturer fra Mellemøsten og Nordafrika, oprindelige folkeslag samt nationer og øer i Asien.</p>
   </li>
-  <li>Studerende eller lignende, som har produceret værker som en del af
-    <blockquote>
-      <p>deres uddannelse eller på egen hånd.</p>
-    </blockquote>
+  <li>
+    <p>Studerende eller lignende, som har produceret værker som en del af deres uddannelse eller på egen hånd.</p>
   </li>
-  <li>Andre grupper, kollektiver eller laboratorier, der beskæftiger sig
-    <blockquote>
-      <p>med alle former for digital skrivning og elektronisk litteratur.</p>
-    </blockquote>
+  <li>
+    <p>Andre grupper, kollektiver eller laboratorier, der beskæftiger sig med alle former for digital skrivning og elektronisk litteratur.</p>
   </li>
 </ul>
 
@@ -149,30 +142,10 @@ kerneaspekter af værket som ikke blot fungerer som en trailer.</p>
 <p><strong>Inkluder følgende:</strong></p>
 
 <ul>
-  <li>Værket (hvis det i alt fylder mindre end 1 GB som en ZIP-fil) eller
-    <blockquote>
-      <p>et link til en platform hvor værket kan findes, såsom Itch.io,
-egen hjemmeside eller en ekstern hosting-service som Dropbox eller
-Google Drive.</p>
-    </blockquote>
-  </li>
-  <li>Metadata ang. forfatter(e), værkets titel, værkbeskrivelse og
-    <blockquote>
-      <p>valgmuligheder vedr. tilgængelighed.</p>
-    </blockquote>
-  </li>
-  <li>(Valgfrit.) Optagelse af en gennemgang af værket eller
-    <blockquote>
-      <p>dokumentation, der demonstrerer værkets kerneegenskaber, æstetik
-og essens, hvis værket ikke umiddelbart kan tilgås, spilles eller
-interageres med.</p>
-    </blockquote>
-  </li>
-  <li>Et kort kunstnerisk statement, inkl. relevante indholdsadvarsler
-    <blockquote>
-      <p>(~200 ord).</p>
-    </blockquote>
-  </li>
+  <li>Værket (hvis det i alt fylder mindre end 1 GB som en ZIP-fil) eller et link til en platform hvor værket kan findes, såsom Itch.io, egen hjemmeside eller en ekstern hosting-service som Dropbox eller Google Drive.</li>
+  <li>Metadata ang. forfatter(e), værkets titel, værkbeskrivelse og valgmuligheder vedr. tilgængelighed.</li>
+  <li>(Valgfrit.) Optagelse af en gennemgang af værket eller dokumentation, der demonstrerer værkets kerneegenskaber, æstetik og essens, hvis værket ikke umiddelbart kan tilgås, spilles eller interageres med.</li>
+  <li>Et kort kunstnerisk statement, inkl. relevante indholdsadvarsler (~200 ord).</li>
 </ul>
 
 <p><strong>Frist for indsendelse:</strong> 6. Januar 2026</p>
@@ -186,7 +159,7 @@ interageres med.</p>
   <li>Zach Whalen</li>
 </ul>
 
-<h3 id="spørgsmål"><strong>Spørgsmål?</strong></h3>
+<h2 id="spørgsmål">Spørgsmål?</h2>
 
 <p>Email: <a href="mailto:elcvol5@gmail.com">elcvol5@gmail.com</a></p>
 

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,35 +13,37 @@
   
 </head>
 <body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  
   <header class="site-header">
     <div class="wrapper">
-      <h1 class="site-title">
+      <div class="site-title">
         <a href="/">Call for Submissions - Electronic Literature Collection Volume 5</a>
-      </h1>
+      </div>
       
         <p class="site-description">The Electronic Literature Organization (ELO) seeks submissions for Volume 5 of the Electronic Literature Collection.</p>
       
     </div>
   </header>
 
-  <nav class="language-nav">
+  <nav class="language-nav" aria-label="Language Selection">
     <div class="wrapper">
-      <h3>Available Languages:</h3>
-      <ul class="language-list">
-        <li><a href="/EN/">English</a></li>
-        <li><a href="/FR/">Français</a></li>
-        <li><a href="/DE/">Deutsch</a></li>
-        <li><a href="/IT/">Italiano</a></li>
-        <li><a href="/JA/">日本語</a></li>
-        <li><a href="/AR/">العربية</a></li>
-        <li><a href="/DA/">Dansk</a></li>
-        <li><a href="/PT-BR/">Português (BR)</a></li>
-        <li><a href="/PT-PT/">Português (PT)</a></li>
+      <h3 id="language-heading">Available Languages:</h3>
+      <ul class="language-list" role="list" aria-labelledby="language-heading">
+        <li><a href="/EN/" hreflang="en" aria-label="View in English">English</a></li>
+        <li><a href="/FR/" hreflang="fr" aria-label="Voir en français">Français</a></li>
+        <li><a href="/DE/" hreflang="de" aria-label="Auf Deutsch ansehen">Deutsch</a></li>
+        <li><a href="/IT/" hreflang="it" aria-label="Visualizza in italiano">Italiano</a></li>
+        <li><a href="/JA/" hreflang="ja" aria-label="日本語で表示">日本語</a></li>
+        <li><a href="/AR/" hreflang="ar" aria-label="عرض باللغة العربية">العربية</a></li>
+        <li><a href="/DA/" hreflang="da" aria-label="Se på dansk">Dansk</a></li>
+        <li><a href="/PT-BR/" hreflang="pt-BR" aria-label="Ver em português brasileiro">Português (BR)</a></li>
+        <li><a href="/PT-PT/" hreflang="pt-PT" aria-label="Ver em português europeu">Português (PT)</a></li>
       </ul>
     </div>
   </nav>
 
-  <main class="page-content">
+  <main class="page-content" id="main-content">
     <div class="wrapper">
       <h1 id="aufruf-zur-einreichung-von-beiträgen">Aufruf zur Einreichung von Beiträgen</h1>
 
@@ -62,18 +64,17 @@ ELC-Redaktionskollektiv, weiterhin eine große Bandbreite von Ansätzen
 elektronischer und digitaler Literatur (E-Lit) begrüßen, veranlasst uns
 diese Situation dazu, gezielt nach solchen Werken zu suchen,</p>
 
-<p>die einen kritischen, bewussten und reflexiven Umgang mit den Medien und
-den sie hervorbringenden technokulturellen Milieus zum Inhalt haben,</p>
-
-<p>die durch E-Lit ermöglichte pädagogische Ansätze privilegieren,</p>
-
-<p>die auf aktuelle, drängende Fragen der digitalen Kultur wie
+<ul>
+  <li>die einen kritischen, bewussten und reflexiven Umgang mit den Medien und
+den sie hervorbringenden technokulturellen Milieus zum Inhalt haben,</li>
+  <li>die durch E-Lit ermöglichte pädagogische Ansätze privilegieren,</li>
+  <li>die auf aktuelle, drängende Fragen der digitalen Kultur wie
 Privatsphäre, Überwachung, Daten, Umweltauswirkungen, digitale Rechte,
 (Des-)Information und Zugangbarrieren reagieren oder darüber
-reflektieren</p>
-
-<p>und allgemein Werke, die E-Lit mit anderen Bereichen und Anliegen
-kultureller Produktion verbinden.</p>
+reflektieren</li>
+  <li>und allgemein Werke, die E-Lit mit anderen Bereichen und Anliegen
+kultureller Produktion verbinden.</li>
+</ul>
 
 <p>Als literarische Werke kommen für uns alle Arbeiten in Frage, die
 grundlegend durch ihre digitale Natur geprägt sind, unabhängig davon, ob
@@ -85,7 +86,7 @@ E-Mail oder über soziale Medien stattfinden, Buch-Apps,
 Klang-/Bild-/AR-Poesie, Zines, Spiele, computergenerierte Literatur,
 Fanfiction-Werke und andere. Beispiele für die Bandbreite der bisher in
 den Bänden 1, 2, 3 und 4 gesammelten Werke sind unter
-<a href="http://collection.eliterature.org">[http://collection.eliterature.org]{.underline}</a>
+<a href="http://collection.eliterature.org">http://collection.eliterature.org</a>
 zu finden.</p>
 
 <p>Wie schon in den vergangenen Bänden legen wir Wert auf die Bewahrung und
@@ -147,21 +148,20 @@ Arbeit dient.</p>
 
 <p><strong>Bitte reichen Sie Folgendes ein:</strong></p>
 
-<p>Das Werk selbst (wenn die Datei im ZIP-Format kleiner als 1 GBist) oder
+<ul>
+  <li>Das Werk selbst (wenn die Datei im ZIP-Format kleiner als 1 GBist) oder
 den Link zum Werk, das auf einer Plattform wie
 <a href="http://itch.io">Itch.io</a>, einem Webhosting- oder
-Datei-Hosting-Dienst wie Dropbox oder Google Drive gehostet wird.</p>
-
-<p>Metadaten zu Autor(en), Werktitel, Werkbeschreibung und Informationen
-zum barrierefreien Zugang des Werks.</p>
-
-<p>(Optional) Die Aufzeichnung eines Traversal oder eine andere
+Datei-Hosting-Dienst wie Dropbox oder Google Drive gehostet wird.</li>
+  <li>Metadaten zu Autor(en), Werktitel, Werkbeschreibung und Informationen
+zum barrierefreien Zugang des Werks.</li>
+  <li>(Optional) Die Aufzeichnung eines Traversal oder eine andere
 Dokumentationsform, die die Kernfunktionen, Ästhetik und Wesen des Werks
 veranschaulicht, so es nicht ohne Weiteres zugänglich ist, abgespielt
-oder mit ihm interagiert werden kann.</p>
-
-<p>Eine kurze Erklärung des:r Künstler:in/Autor:in, einschließlich
-relevanter Inhaltswarnungen (~200 Wörter).</p>
+oder mit ihm interagiert werden kann.</li>
+  <li>Eine kurze Erklärung des:r Künstler:in/Autor:in, einschließlich
+relevanter Inhaltswarnungen (~200 Wörter).</li>
+</ul>
 
 <p><strong>Einsendeschluss:</strong> 6. Januar 2026</p>
 
@@ -174,9 +174,9 @@ relevanter Inhaltswarnungen (~200 Wörter).</p>
   <li>Zach Whalen</li>
 </ul>
 
-<h3 id="fragen"><strong>Fragen?</strong></h3>
+<h2 id="fragen">Fragen?</h2>
 
-<p>E-Mail: <a href="mailto:elcvol5@gmail.com">[elcvol5@gmail.com]{.underline}</a></p>
+<p>E-Mail: <a href="mailto:elcvol5@gmail.com">elcvol5@gmail.com</a></p>
 
     </div>
   </main>

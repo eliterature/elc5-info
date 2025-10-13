@@ -115,6 +115,6 @@ Veuillez soumettre vos candidatures **via ce formulaire**.
 - Dani Spinosa
 - Zach Whalen
 
-### Pour toute question
+## Pour toute question
 
 Email: [elcvol5@gmail.com](mailto:elcvol5@gmail.com)
