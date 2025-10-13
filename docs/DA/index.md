@@ -1,6 +1,7 @@
 # **Indkaldelse af bidrag**
 
-Electronic Literature Collection Volume 5\
+## Electronic Literature Collection Volume 5
+
 Indsend dit bidrag mellem d. 13. oktober 2025 og d. 6. januar 2026
 
 Electronic Literature Organization (ELO) søger bidrag til den femte
@@ -32,7 +33,7 @@ eller sociale medier, bogapps, lyd-/visuel-/AR-poesi, zines, spil,
 computergenereret litteratur, fanfiction-værker og andet. Eksempler på
 den bredde af værker, der tidligere er samlet i udgave 1, 2, 3 og 4 af
 ELC, findes på
-[[http://collection.eliterature.org]{.underline}](http://collection.eliterature.org).
+[http://collection.eliterature.org](http://collection.eliterature.org).
 
 I tråd med tidligere udgaver af ELC vægter vi bevarelse og dokumentation
 højt, med fokus på innovativt arbejde, der udfordrer litterære normer.
@@ -40,19 +41,13 @@ Vi i ELC5 Editorial Collective søger bred repræsentation med hensyn til
 form, sprog, identitet og kultur. Derfor er bidrag på alle sprog
 velkomne. Redaktionen vil især opfordre til indsendelse af værker fra:
 
-- Personer som ikke tidligere har udgivet materiale i *Electronic
-    > Literature Collection*.
+- Personer som ikke tidligere har udgivet materiale i *Electronic Literature Collection*.
 
-- Personer fra områder hvor elektronisk litteratur ikke er
-    > veletableret som genre (herunder Danmark) og/eller værker, der
-    > repræsenterer kulturer fra Mellemøsten og Nordafrika, oprindelige
-    > folkeslag samt nationer og øer i Asien.
+- Personer fra områder hvor elektronisk litteratur ikke er veletableret som genre (herunder Danmark) og/eller værker, der repræsenterer kulturer fra Mellemøsten og Nordafrika, oprindelige folkeslag samt nationer og øer i Asien.
 
-- Studerende eller lignende, som har produceret værker som en del af
-    > deres uddannelse eller på egen hånd.
+- Studerende eller lignende, som har produceret værker som en del af deres uddannelse eller på egen hånd.
 
-- Andre grupper, kollektiver eller laboratorier, der beskæftiger sig
-    > med alle former for digital skrivning og elektronisk litteratur.
+- Andre grupper, kollektiver eller laboratorier, der beskæftiger sig med alle former for digital skrivning og elektronisk litteratur.
 
 Siden sidste ELC-udgave har der været stor fokus på generativ AI og
 blockchain-teknologi. Vi er særligt interesserede i værker, der bruger
@@ -92,21 +87,10 @@ Indsend værker **ved at benytte denne formular**.
 
 **Inkluder følgende:**
 
-- Værket (hvis det i alt fylder mindre end 1 GB som en ZIP-fil) eller
-    > et link til en platform hvor værket kan findes, såsom Itch.io,
-    > egen hjemmeside eller en ekstern hosting-service som Dropbox eller
-    > Google Drive.
-
-- Metadata ang. forfatter(e), værkets titel, værkbeskrivelse og
-    > valgmuligheder vedr. tilgængelighed.
-
-- (Valgfrit.) Optagelse af en gennemgang af værket eller
-    > dokumentation, der demonstrerer værkets kerneegenskaber, æstetik
-    > og essens, hvis værket ikke umiddelbart kan tilgås, spilles eller
-    > interageres med.
-
-- Et kort kunstnerisk statement, inkl. relevante indholdsadvarsler
-    > (\~200 ord).
+* Værket (hvis det i alt fylder mindre end 1 GB som en ZIP-fil) eller et link til en platform hvor værket kan findes, såsom Itch.io, egen hjemmeside eller en ekstern hosting-service som Dropbox eller Google Drive.
+* Metadata ang. forfatter(e), værkets titel, værkbeskrivelse og valgmuligheder vedr. tilgængelighed.
+* (Valgfrit.) Optagelse af en gennemgang af værket eller dokumentation, der demonstrerer værkets kerneegenskaber, æstetik og essens, hvis værket ikke umiddelbart kan tilgås, spilles eller interageres med.
+* Et kort kunstnerisk statement, inkl. relevante indholdsadvarsler (\~200 ord).
 
 **Frist for indsendelse:** 6. Januar 2026
 
@@ -117,6 +101,6 @@ Indsend værker **ved at benytte denne formular**.
 - Dani Spinosa
 - Zach Whalen
 
-### **Spørgsmål?**
+## **Spørgsmål?**
 
-Email: <elcvol5@gmail.com>
+Email: [elcvol5@gmail.com](mailto:elcvol5@gmail.com)
