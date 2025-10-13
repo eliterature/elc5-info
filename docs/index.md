@@ -43,6 +43,10 @@ Leggi la call per i contributi in italiano.
 
 Læs opfordringen til bidrag på dansk.
 
+### [Suomi](/FI/) 🇫🇮
+
+Lue kutsu osallistumiseen suomeksi.
+
 ### [Português (Brasil)](/PT-BR/) 🇧🇷
 
 Leia a chamada para submissões em português brasileiro.

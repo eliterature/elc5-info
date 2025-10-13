@@ -1,14 +1,19 @@
+---
+layout: default
+lang: fi
+---
+
 ## Teoshaku
 
 ### Electronic Literature Collection Volume 5  
 
-Teoshaku auki: 13\. lokakuuta 2025 – 6\. tammikuuta 2026
+Teoshaku auki: 13. lokakuuta 2025 – 6. tammikuuta 2026
 
 Electronic Literature Organization (ELO) etsii teosehdotuksia viidenteen *Electronic Literature Collection* \-kokoelmaan (ELC5).
 
 ELC-kokoelmia julkaistaan noin viiden vuoden välein, mikä mahdollistaa teknokulttuuristen muutosten ja ilmiöiden havaitsemisen: kuinka ilmiöt syntyvät, vakiintuvat ja katoavat. Viimeisen viiden vuoden aikana olemme kuitenkin todistaneet entistä syvemmän kulttuurin, teknologian, pääoman ja poliittisen vaikutusvallan yhteenkietoutumisen. Vaikka ELC-toimituskollektiivi toivottaa edelleen tervetulleeksi kaikenlaiset digitaalisen kirjallisuuden lähestymistavat, nykytilanne saa meidät hakemaan erityisesti teoksia, jotka lähestyvät kriittisesti, tietoisesti ja refleksiivisesti mediakenttää sekä sitä tuottavaa teknokulttuurista kontekstia; hyödyntävät digitaalisen kirjallisuuden pedagogisia mahdollisuuksia; käsittelevät tai pohtivat ajankohtaisia digitaalisen kulttuurin aiheita kuten tietosuoja, valvonta, data, teknologian ympäristövaikutukset, digitaaliset oikeudet, (dis)informaatio ja saavutettavuus; ja ennen kaikkea teokset jotka kytkevät digitaalisen kirjallisuuden muihin kulttuurin osa-alueisiin ja teemoihin.
 
-Digitaalisen kirjallisuuden teoksiksi katsotaan kaikki teokset, jotka ovat olennaisesti digitaalisuuden muovaamia – olivatpa ne täysin ruudulla, hybridimuotoisia, painettuja tai fyysisissä tiloissa tapahtuvia. Haluamme tuoda esiin teosmuotojen ja tekijöiden monimuotoisuutta. Tähän laajaan käsitykseen kuuluu mm. (mutta ei pelkästään): Twine-teokset, botit, sijaintiperusteiset projektit, sähköposti- tai sosiaalisen median kautta tapahtuvat kertomukset, (kirja)sovellukset, ääni-/video-/kuva-/AR-runous, zinet, pelit, tietokoneen generoima kirjallisuus, fanifiktiot ja muut. Aiemmat kokoelmat (1, 2, 3 ja 4\) löytyvät osoitteesta: [http://collection.eliterature.org](http://collection.eliterature.org)
+Digitaalisen kirjallisuuden teoksiksi katsotaan kaikki teokset, jotka ovat olennaisesti digitaalisuuden muovaamia – olivatpa ne täysin ruudulla, hybridimuotoisia, painettuja tai fyysisissä tiloissa tapahtuvia. Haluamme tuoda esiin teosmuotojen ja tekijöiden monimuotoisuutta. Tähän laajaan käsitykseen kuuluu mm. (mutta ei pelkästään): Twine-teokset, botit, sijaintiperusteiset projektit, sähköposti- tai sosiaalisen median kautta tapahtuvat kertomukset, (kirja)sovellukset, ääni-/video-/kuva-/AR-runous, zinet, pelit, tietokoneen generoima kirjallisuus, fanifiktiot ja muut. Aiemmat kokoelmat (1, 2, 3 ja 4) löytyvät osoitteesta: [http://collection.eliterature.org](http://collection.eliterature.org)
 
 Kuten aiempien kokoelmien kohdalla, sitoudumme teosten arkistointiin ja dokumentointiin, ja etsimme innovatiivisia teoksia, jotka haastavat kirjallisuuden perinteisiä normeja. ELC5-toimituskollektiivi arvostaa muotojen, kielten, identiteettien ja kulttuurien monimuotoisuutta. Tämän vuoksi teoksia voi lähettää millä tahansa kielellä. Haemme erityisesti teoksia:
 
@@ -27,7 +32,7 @@ Jos perusteellinen video- tai äänitallenne teoksen läpikäynnistä, performan
 
 ### Hakuohjeet
 
-Lähetä teosehdotuksesi **tämän hakulomakkeen kautta**.
+Lähetä teosehdotuksesi [tämän hakulomakkeen kautta](https://forms.gle/Ftir1rj4NBoBBNJJA).
 
 **Hakemukseen tarvitaan:**
 
@@ -36,9 +41,9 @@ Lähetä teosehdotuksesi **tämän hakulomakkeen kautta**.
 * (Valinnainen) Videotallenne teoksen kokonaiskokemuksesta tai muu kuvaus (teksti, kuvat) josta käy ilmi teoksen keskeiset ominaisuudet, estetiikka ja tuntu siinä tapauksessa että teosta ei voi helposti itse kokea, pelata tai kokeilla.  
 * Lyhyt taiteilijan sana/tekijän lausunto ml. mahdolliset sisältövaroitukset (\~200 sanaa).
 
-**Teoshaku auki: 6\. tammikuuta 2026 asti**
+#### Määräaika: 6. tammikuuta 2026
 
-### ELC5-toimituskollektiivi:
+### ELC5-toimituskollektiivi
 
 * Dan Cox  
 * Élika Ortega  
