@@ -32,7 +32,7 @@ En el caso de obras en las que no tenga sentido realizar un _derivado_, un perfo
 
 ## **Cómo enviar las obras propuestas**
 
-Envía tu propuesta utilizando [https://forms.gle/Ftir1rj4NBoBBNJJA](este formulario).
+Envía tu propuesta utilizando [este formulario](https://forms.gle/Ftir1rj4NBoBBNJJA).
 
 Envía lo siguiente:
 
