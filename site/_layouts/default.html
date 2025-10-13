@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrapper">
+      <h1 class="site-title">
+        <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      </h1>
+      {% if site.description %}
+        <p class="site-description">{{ site.description | escape }}</p>
+      {% endif %}
+    </div>
+  </header>
+
+  <nav class="language-nav">
+    <div class="wrapper">
+      <h3>Available Languages:</h3>
+      <ul class="language-list">
+        <li><a href="{{ "/EN/" | relative_url }}">English</a></li>
+        <li><a href="{{ "/FR/" | relative_url }}">Français</a></li>
+        <li><a href="{{ "/DE/" | relative_url }}">Deutsch</a></li>
+        <li><a href="{{ "/IT/" | relative_url }}">Italiano</a></li>
+        <li><a href="{{ "/JA/" | relative_url }}">日本語</a></li>
+        <li><a href="{{ "/AR/" | relative_url }}">العربية</a></li>
+        <li><a href="{{ "/DA/" | relative_url }}">Dansk</a></li>
+        <li><a href="{{ "/PT-BR/" | relative_url }}">Português (BR)</a></li>
+        <li><a href="{{ "/PT-PT/" | relative_url }}">Português (PT)</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="page-content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrapper">
+      <p>&copy; {{ "now" | date: "%Y" }} Electronic Literature Organization</p>
+    </div>
+  </footer>
+</body>
+</html>
