@@ -15,7 +15,7 @@ This call for submissions is available in the following languages. Click on any 
 
 Read the call for submissions in English.
 
-### [Spanish](/ES/) 🇺🇸
+### [Spanish](/ES/) 🇪🇸
 
 Lea la convocatoria en español.
 
