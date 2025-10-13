@@ -1,4 +1,9 @@
-# **Indkaldelse af bidrag**
+---
+layout: default
+lang: da
+---
+
+# Indkaldelse af bidrag
 
 ## Electronic Literature Collection Volume 5
 
@@ -87,10 +92,10 @@ Indsend værker **ved at benytte denne formular**.
 
 **Inkluder følgende:**
 
-* Værket (hvis det i alt fylder mindre end 1 GB som en ZIP-fil) eller et link til en platform hvor værket kan findes, såsom Itch.io, egen hjemmeside eller en ekstern hosting-service som Dropbox eller Google Drive.
-* Metadata ang. forfatter(e), værkets titel, værkbeskrivelse og valgmuligheder vedr. tilgængelighed.
-* (Valgfrit.) Optagelse af en gennemgang af værket eller dokumentation, der demonstrerer værkets kerneegenskaber, æstetik og essens, hvis værket ikke umiddelbart kan tilgås, spilles eller interageres med.
-* Et kort kunstnerisk statement, inkl. relevante indholdsadvarsler (\~200 ord).
+- Værket (hvis det i alt fylder mindre end 1 GB som en ZIP-fil) eller et link til en platform hvor værket kan findes, såsom Itch.io, egen hjemmeside eller en ekstern hosting-service som Dropbox eller Google Drive.
+- Metadata ang. forfatter(e), værkets titel, værkbeskrivelse og valgmuligheder vedr. tilgængelighed.
+- (Valgfrit.) Optagelse af en gennemgang af værket eller dokumentation, der demonstrerer værkets kerneegenskaber, æstetik og essens, hvis værket ikke umiddelbart kan tilgås, spilles eller interageres med.
+- Et kort kunstnerisk statement, inkl. relevante indholdsadvarsler (\~200 ord).
 
 **Frist for indsendelse:** 6. Januar 2026
 
@@ -101,6 +106,6 @@ Indsend værker **ved at benytte denne formular**.
 - Dani Spinosa
 - Zach Whalen
 
-## **Spørgsmål?**
+## Spørgsmål?
 
 Email: [elcvol5@gmail.com](mailto:elcvol5@gmail.com)
