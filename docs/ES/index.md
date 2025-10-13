@@ -21,7 +21,6 @@ Siguiendo con los volúmenes anteriores, nos comprometemos a preservar y documen
 - Artistas que trabajan en comunidades donde la literatura electrónica es incipiente y/o que representan culturas de Oriente Medio y el norte de África, pueblos indígenas y naciones e islas de Asia.
 - Estudiantes y artistas que hayan producido obras en clase o por su cuenta.
 - Otros grupos, colectivos o laboratorios dedicados a todas las formas de escritura digital y literatura electrónica.
--
 
 Desde el último volumen de ELC, se ha prestado mucha atención a la IA generativa y al blockchain. Damos la bienvenida a las obras que utilizan estas tecnologías con el fin de desfamiliarizar los modelos hegemónicos de IA y las plataformas criptográficas a través de un compromiso crítico y creativo. Las obras que utilicen estas tecnologías deben dar prioridad a la transparencia, la deliberación y la responsabilidad en términos de conjuntos de datos específicos, modelos e impactos ambientales, siempre que sea posible y pertinente. Las declaraciones autoriales deben reconocer explícitamente su uso y los fundamentos estéticos de la obra.
 
