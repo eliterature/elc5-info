@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
 <head>
   <meta charset="utf-8">
@@ -8,8 +8,8 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description"
     content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <link rel="icon" type="image/x-icon" href="{{ " /assets/images/favicon.ico" | relative_url }}">
-  <link rel="stylesheet" href="{{ " /assets/css/style.css" | relative_url }}">
+  <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 
 <body>
@@ -18,10 +18,10 @@
   <header class="site-header">
     <div class="wrapper">
       <div class="header-content">
-        <img src="{{ " /assets/images/elc5-logo.png" | relative_url }}"
+        <img src="{{ '/assets/images/elc5-logo.png' | relative_url }}"
           alt="Electronic Literature Collection Volume 5 Logo" class="site-logo">
         <div class="site-title">
-          <a href="{{ " /" | relative_url }}">{{ site.title | escape }}</a>
+          <a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
         </div>
       </div>
       {% if site.description %}
@@ -34,17 +34,17 @@
     <div class="wrapper">
       <h3 id="language-heading">Available Languages:</h3>
       <ul class="language-list" role="list" aria-labelledby="language-heading">
-        <li><a href="{{ " /EN/" | relative_url }}" hreflang="en" aria-label="View in English">English</a></li>
-        <li><a href="{{ " /ES/" | relative_url }}" hreflang="en" aria-label="Ver en español.">Español</a></li>
-        <li><a href="{{ " /FR/" | relative_url }}" hreflang="fr" aria-label="Voir en français">Français</a></li>
-        <li><a href="{{ " /DE/" | relative_url }}" hreflang="de" aria-label="Auf Deutsch ansehen">Deutsch</a></li>
-        <li><a href="{{ " /IT/" | relative_url }}" hreflang="it" aria-label="Visualizza in italiano">Italiano</a></li>
-        <li><a href="{{ " /JA/" | relative_url }}" hreflang="ja" aria-label="日本語で表示">日本語</a></li>
-        <li><a href="{{ " /AR/" | relative_url }}" hreflang="ar" aria-label="عرض باللغة العربية">العربية</a></li>
-        <li><a href="{{ " /DA/" | relative_url }}" hreflang="da" aria-label="Se på dansk">Dansk</a></li>
-        <li><a href="{{ " /PT-BR/" | relative_url }}" hreflang="pt-BR"
-            aria-label="Ver em português brasileiro">Português (BR)</a></li>
-        <li><a href="{{ " /PT-PT/" | relative_url }}" hreflang="pt-PT" aria-label="Ver em português europeu">Português
+        <li><a href="{{ '/EN/' | relative_url }}" hreflang="en" aria-label="View in English">English</a></li>
+        <li><a href="{{ '/ES/' | relative_url }}" hreflang="en" aria-label="Ver en español.">Español</a></li>
+        <li><a href="{{ '/FR/' | relative_url }}" hreflang="fr" aria-label="Voir en français">Français</a></li>
+        <li><a href="{{ '/DE/' | relative_url }}" hreflang="de" aria-label="Auf Deutsch ansehen">Deutsch</a></li>
+        <li><a href="{{ '/IT/' | relative_url }}" hreflang="it" aria-label="Visualizza in italiano">Italiano</a></li>
+        <li><a href="{{ '/JA/' | relative_url }}" hreflang="ja" aria-label="日本語で表示">日本語</a></li>
+        <li><a href="{{ '/AR/' | relative_url }}" hreflang="ar" aria-label="عرض باللغة العربية">العربية</a></li>
+        <li><a href="{{ '/DA/' | relative_url }}" hreflang="da" aria-label="Se på dansk">Dansk</a></li>
+        <li><a href="{{ '/PT-BR/' | relative_url }}" hreflang="pt-BR" aria-label="Ver em português brasileiro">Português
+            (BR)</a></li>
+        <li><a href="{{ '/PT-PT/' | relative_url }}" hreflang="pt-PT" aria-label="Ver em português europeu">Português
             (PT)</a></li>
       </ul>
     </div>
