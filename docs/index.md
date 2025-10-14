@@ -1,13 +1,9 @@
-# Electronic Literature Collection Volume 5
+---
+layout: default
+title: Call for Submissions
+---
 
-## Editorial Collective
-
-- Dan Cox
-- Élika Ortega
-- Dani Spinosa
-- Zach Whalen
-
-## Welcome to ELC5 Information
+## Welcome to ELC5 Call for Submissions
 
 The **Electronic Literature Organization (ELO)** seeks submissions for Volume 5 of the _Electronic Literature Collection_.
 
@@ -15,55 +11,55 @@ The **Electronic Literature Organization (ELO)** seeks submissions for Volume 5 
 
 This call for submissions is available in the following languages. Click on any language below to read the full details:
 
-### [English](https://eliterature.github.io/elc5-info/EN/) 🇺🇸
+### [English](EN/) 🇺🇸
 
 Read the call for submissions in English.
 
-### [Español](https://eliterature.github.io/elc5-info/ES/) 🇪🇸
+### [Español](ES/) 🇪🇸
 
 Lea la convocatoria en español.
 
-### [Français](https://eliterature.github.io/elc5-info/FR/) 🇫🇷
+### [Français](FR/) 🇫🇷
 
 Lisez l'appel à contributions en français.
 
-### [Deutsch](https://eliterature.github.io/elc5-info/DE/) 🇩🇪
+### [Deutsch](DE/) 🇩🇪
 
 Lesen Sie den Aufruf zur Einreichung auf Deutsch.
 
-### [Italiano](https://eliterature.github.io/elc5-info/IT/) 🇮🇹
+### [Italiano](IT/) 🇮🇹
 
 Leggi la call per i contributi in italiano.
 
-### [日本語](https://eliterature.github.io/elc5-info/JA/) 🇯🇵
+### [日本語](JA/) 🇯🇵
 
 日本語での募集要項をお読みください。
 
-### [العربية](https://eliterature.github.io/elc5-info/AR/) 🇸🇦
+### [العربية](AR/) 🇸🇦
 
 اقرأ دعوة المساهمات باللغة العربية.
 
-### [Dansk](https://eliterature.github.io/elc5-info/DA/) 🇩🇰
+### [Dansk](DA/) 🇩🇰
 
 Læs opfordringen til bidrag på dansk.
 
-### [Suomi](https://eliterature.github.io/elc5-info/FI/) 🇫🇮
+### [Suomi](FI/) 🇫🇮
 
 Lue kutsu osallistumiseen suomeksi.
 
-### [Português (Brasil)](https://eliterature.github.io/elc5-info/PT-BR/) 🇧🇷
+### [Português (Brasil)](PT-BR/) 🇧🇷
 
 Leia a chamada para submissões em português brasileiro.
 
-### [Português (Portugal)](https://eliterature.github.io/elc5-info/PT-PT/) 🇵🇹
+### [Português (Portugal)](PT-PT/) 🇵🇹
 
 Leia a chamada para submissões em português europeu.
 
-### [Русский](https://eliterature.github.io/elc5-info/RU/) 🇷🇺
+### [Русский](RU/) 🇷🇺
 
 Прочитайте призыв к подаче материалов на русском языке.
 
-### [中文](https://eliterature.github.io/elc5-info/ZH/) 🇨🇳
+### [中文](ZH/) 🇨🇳
 
 阅读中文版投稿征集。
 
@@ -78,8 +74,10 @@ Leia a chamada para submissões em português europeu.
 - Roberta Iadevaia (IT)
 - Terhi Marttila (FI)
 - Vinícius Pereira (PT)
-- Weiling Wang (ZH)
+- Weiling Wang (ZH).
 - Élika Ortega (ES)
+
+---
 
 ## Important Dates
 
@@ -92,3 +90,5 @@ If you are interested in translating this call for submissions into another lang
 ## About the Electronic Literature Organization
 
 The Electronic Literature Organization (ELO) is an international organization dedicated to the writing, publishing, and reading of electronic literature.
+
+_For complete details, deadlines, and submission guidelines, please select your preferred language above._
