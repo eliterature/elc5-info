@@ -203,6 +203,43 @@ body {
   color: white !important;
 }
 
+/* Submission Button */
+.submission-button-container {
+  text-align: center;
+  margin: 3rem 0 2rem;
+}
+
+.submission-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  min-height: 44px;
+  min-width: 44px;
+  background-color: #d1242a;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+  box-sizing: border-box;
+}
+
+.submission-button:hover,
+.submission-button:focus {
+  background-color: #222222;
+  color: white !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  outline: 4px solid #fff;
+  outline-offset: 3px;
+  text-decoration: none;
+  border: 2px solid #2d5aa0;
+}
+
+.submission-button:visited {
+  color: white !important;
+}
+
 /* Main content */
 .page-content {
   padding: 2rem 0;
