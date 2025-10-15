@@ -84,7 +84,7 @@ et ses fonctionnalités. Nous recommandons d\'enregistrer l\'œuvre dans
 une résolution d\'au moins 720p (1280x720) et de ne pas dépasser 5 Go
 pour chaque fichier vidéo.
 
-Pour les œuvres pour lesquelles un parcours *(traversal)*, une
+Pour les œuvres pour lesquelles un parcours *(Traversal)*, une
 performance ou une démonstration ne sont pas pertinents, nous demandons
 une documentation des caractéristiques principales, de l\'esthétique et
 de l\'essence de l\'œuvre et de ses contributions. Pour une œuvre XR,
@@ -102,7 +102,7 @@ Veuillez soumettre vos candidatures via [ce formulaire](https://forms.gle/Ftir1r
 
 - Métadonnées initiales du ou des auteurs, titre et description de l'œuvre, et options d'accessibilité.
 
-- (Facultatif) Enregistrement du parcours *(traversal)* ou une documentation démontrant les caractéristiques principales, l'esthétique et l'essence de l'œuvre si elle n'est pas facilement accessible, jouable ou interactive.
+- (Facultatif) Enregistrement du parcours *(Traversal)* ou une documentation démontrant les caractéristiques principales, l'esthétique et l'essence de l'œuvre si elle n'est pas facilement accessible, jouable ou interactive.
 
 - Une brève déclaration de l'artiste/auteur, incluant tout avertissement pertinent concernant le contenu (environ 200 mots).
 
