@@ -1,0 +1,18 @@
+  <header class="site-header">
+    <h1 class="site-title">
+      <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    </h1>
+
+    <h2 class="site-subtitle">Electronic Literature Collection Volume 5</h2>
+
+    <div class="wrapper">
+      <div class="header-content">
+        <img src="{{ "/assets/images/elc5-logo.png" | relative_url }}"
+          alt="Electronic Literature Collection Volume 5 Logo" class="site-logo">
+       
+      </div>
+      {% if site.description %}
+      <p class="site-description">{{ site.description | escape }}</p>
+      {% endif %}
+    </div>
+  </header>

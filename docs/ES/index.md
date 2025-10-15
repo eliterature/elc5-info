@@ -3,9 +3,9 @@ layout: translation
 lang: es
 ---
 
-# Convocatoria de propuestas
+## Convocatoria de propuestas
 
-## Colección de Literatura Electrónica, Volumen 5
+### Colección de Literatura Electrónica, Volumen 5
 
 Plazo de presentación de propuestas: del 13 de octubre de 2025 al 6 de enero de 2026
 

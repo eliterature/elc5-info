@@ -1,9 +1,7 @@
 ---
-layout: translation
+layout: rtl-translation
 lang: ar
 ---
-
-<div dir="rtl" lang="ar">
 
 ## دعوة لتقديم المشاركات
 
@@ -69,5 +67,3 @@ lang: ar
 ## الاستفسارات
 
 البريد الإلكتروني: [elcvol5@gmail.com](elcvol5@gmail.co)
-
-</div>

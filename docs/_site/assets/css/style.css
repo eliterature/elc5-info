@@ -210,6 +210,40 @@ p, li { line-height: 1.6; }
 /* AAA Utility Classes */
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 
+/* RTL Layout Support */
+/* Keep header and navigation in LTR */
+[dir="rtl"] .site-header { direction: ltr; text-align: left; }
+
+[dir="rtl"] .site-header .wrapper { direction: ltr; }
+
+[dir="rtl"] .site-header .header-content { flex-direction: row; }
+
+[dir="rtl"] .site-title { text-align: center; direction: ltr; }
+
+[dir="rtl"] .site-subtitle { text-align: center; direction: ltr; }
+
+[dir="rtl"] .language-nav { direction: ltr; text-align: left; }
+
+[dir="rtl"] .language-nav .wrapper { direction: ltr; }
+
+[dir="rtl"] .language-list { justify-content: flex-start; }
+
+[dir="rtl"] .language-list a { text-align: center; }
+
+/* Only apply RTL to main content */
+[dir="rtl"] .rtl-content { direction: rtl; text-align: right; }
+
+[dir="rtl"] .rtl-content h2 { border-left: none; border-right: 4px solid #d1242a; padding-left: 0; padding-right: 1rem; }
+
+[dir="rtl"] .rtl-content ul, [dir="rtl"] .rtl-content ol { padding-right: 2rem; padding-left: 0; }
+
+[dir="rtl"] .rtl-content li { text-align: right; }
+
+/* Keep footer in LTR */
+[dir="rtl"] .site-footer { direction: ltr; text-align: left; }
+
+[dir="rtl"] .site-footer .wrapper { direction: ltr; }
+
 /* AAA Touch Target Enhancement */
 @media (pointer: coarse) { a, button, input, select, textarea { min-height: 48px; min-width: 48px; padding: 12px; }
   .language-list a { min-height: 48px; min-width: 48px; padding: 12px 16px; } }
