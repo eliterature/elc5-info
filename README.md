@@ -67,6 +67,10 @@ Leia a chamada para submissões em português europeu.
 
 阅读中文版投稿征集。
 
+### <span dir="ltr">[עִברִית](https://eliterature.github.io/elc5-info/HE/) 🇮🇱</span>
+
+קראו את הקול קורא להגשות בעברית.
+
 ## Translators
 
 - Kirill Azernyi (RU)
@@ -80,6 +84,7 @@ Leia a chamada para submissões em português europeu.
 - Vinícius Pereira (PT)
 - Weiling Wang (ZH)
 - Élika Ortega (ES)
+- Eyal Gruss (HE)
 
 ## Important Dates
 
