@@ -1,0 +1,44 @@
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description"
+    content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta property="og:image" content="{{ "/assets/images/elc5-logo.png" | absolute_url }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Electronic Literature Collection Volume 5 Logo">
+  <meta property="og:site_name" content="Electronic Literature Collection Volume 5">
+  <meta property="og:locale" content="{{ page.lang | default: 'en_US' }}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="twitter:image" content="{{ "/assets/images/elc5-logo.png" | absolute_url }}">
+  <meta name="twitter:image:alt" content="Electronic Literature Collection Volume 5 Logo">
+ 
+
+  <!-- Additional Social Media / General -->
+  <meta name="author" content="Electronic Literature Organization">
+  <meta name="publisher" content="Electronic Literature Organization">
+  <meta name="keywords" content="electronic literature, digital literature, interactive fiction, digital poetry, e-lit, submissions, call for works">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#667eea">
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  
+  <link rel="icon" type="image/x-icon" href="{{ "/assets/images/favicon.ico" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">

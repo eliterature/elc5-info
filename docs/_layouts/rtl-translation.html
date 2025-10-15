@@ -1,18 +1,18 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}" dir="rtl">
 
 <head>
 {% include head.html %}
 </head>
 
-<body>
+<body dir="rtl">
   <a href="#main-content" class="skip-link">Skip to main content</a>
 
 {% include header.html %}
 
 {% include language-nav.html %}
 
-  <main class="page-content" id="main-content">
+  <main class="page-content rtl-content" id="main-content" dir="rtl">
     <div class="wrapper">
       {{ content }}
       
