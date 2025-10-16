@@ -18,8 +18,8 @@ consolidam e desaparecem. Nos últimos cinco anos, porém, observamos um
 entrelaçamento ainda mais profundo entre cultura, tecnologia, capital e
 influência política. Embora nós, o Coletivo Editorial da ELC,
 permanecemos abertos a uma pluralidade de abordagens para a literatura
-digital (*e-lit*), a situação atual leva-nós a procurar especificamente
-obras que privilegiem abordagens críticos, intencionais e reflexivos em
+digital (*e-lit*), a situação atual leva-nos a procurar especificamente
+obras que privilegiem abordagens críticas, intencionais e reflexivas em
 relação às mídias e as paisagens tecnoculturais que as produzem; que
 valorizem as pedagogias possibilitadas pela *e-lit*; que respondam ou
 reflitam sobre questões contemporâneas e urgentes da cultura digital,
@@ -37,7 +37,7 @@ sociais, experiências literárias em forma de aplicação, poesia
 sonora/visual/em realidade aumentada, zines, jogos, literatura gerada
 por computador, fanfiction e outros. Exemplos da variedade de obras
 anteriormente reunidas nos Volumes 1, 2, 3 e 4 estão disponíveis em
-[[http://collection.eliterature.org]{.underline}](http://collection.eliterature.org).
+[http://collection.eliterature.org](http://collection.eliterature.org).
 
 Seguindo os volumes anteriores, estamos comprometidos com a preservação
 e a documentação, com foco em trabalhos inovadores que desafiem normas
@@ -47,12 +47,12 @@ bem-vindas. Os editores acolhem particularmente obras de:
 
 - Artistas que ainda não foram publicados em uma *Electronic Literature Collection*.
 
-- Artistas que atuam em comunidades onde a *e-lit* é nascente e/ouobras que representem culturas do Oriente Médio e Norte da África, Povos Indígenas e nações e ilhas da Ásia.
+- Artistas que atuam em comunidades onde a *e-lit* é nascente e/ou obras que representem culturas do Oriente Médio e Norte da África, Povos Indígenas e nações e ilhas da Ásia.
 - Estudantes e artistas que produziram obras em sala de aula ou por conta própria.
 - Outros grupos, coletivos ou laboratórios envolvidos em todas as formas de escrita digital e literatura digital.
 
-Desde o último volume da ELC, a Inteligência Artificial Generativa e à
-blockchain têm tido muita atenção. Sâo bem-vindas obras que utilizem
+Desde o último volume da ELC, a Inteligência Artificial Generativa e a
+blockchain têm tido muita atenção. São bem-vindas obras que utilizem
 tais tecnologias a fim de desfamiliarizar modelos hegemônicos de IA e
 plataformas de criptomoeda por meio de abordagens críticas e criativas.
 Obras que utilizem tais tecnologias devem priorizar transparência,
@@ -69,7 +69,7 @@ autodestruição ou outros fatores, tornaram-se ou podem em breve se
 tornar inacessíveis. Se uma obra é locativa; foi construída ou criada
 para uma plataforma que já não é suportada; ou foi concebida para ser
 temporária ou autodestrutiva, aceitamos submissões de vídeos de
-documentação -- gravações em vídeo e áudio de uma travessia completa do
+documentação – gravações em vídeo e áudio de uma travessia completa do
 texto digital mostrando as suas possibilidades, capacidades e
 funcionalidades. A nossa recomendação é gravar a obra em resolução de
 pelo menos 720p (1280x720) e não exceder 5 GB no tamanho do arquivo
@@ -92,11 +92,11 @@ Por favor, envie as submissões através [deste formulário](https://forms.gle/F
 
 - Metadados iniciais do(s) autor(es), título da obra, descrição da obra e opções de acessibilidade.
 
-- (Opcional.) Gravação de um vídeo de documentação ou documentação que demonstra as características centrais, a estética e essência da obra, caso não se consegue facilmente aceder, jogar ou interagir com a obra.
+- (Opcional.) Gravação de um vídeo de documentação ou documentação que demonstra as características centrais, a estética e essência da obra, caso não se consiga facilmente aceder, jogar ou interagir com a obra.
 
 - Uma breve declaração do artista/autor, incluindo eventuais avisos de conteúdo (\~200 palavras).
 
-## Prazo final: 6 de janeiro de 2026
+**Prazo final:** 6 de janeiro de 2026
 
 ## O Coletivo Editorial da ELC5
 
