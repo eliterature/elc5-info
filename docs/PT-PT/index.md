@@ -37,7 +37,7 @@ sociais, experiências literárias em forma de aplicação, poesia
 sonora/visual/em realidade aumentada, zines, jogos, literatura gerada
 por computador, fanfiction e outros. Exemplos da variedade de obras
 anteriormente reunidas nos Volumes 1, 2, 3 e 4 estão disponíveis em
-[[http://collection.eliterature.org]{.underline}](http://collection.eliterature.org).
+[http://collection.eliterature.org](http://collection.eliterature.org).
 
 Seguindo os volumes anteriores, estamos comprometidos com a preservação
 e a documentação, com foco em trabalhos inovadores que desafiem normas
@@ -96,7 +96,7 @@ Por favor, envie as submissões através [deste formulário](https://forms.gle/F
 
 - Uma breve declaração do artista/autor, incluindo eventuais avisos de conteúdo (\~200 palavras).
 
-## Prazo final: 6 de janeiro de 2026
+**Prazo final:** 6 de janeiro de 2026
 
 ## O Coletivo Editorial da ELC5
 
