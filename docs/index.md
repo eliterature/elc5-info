@@ -67,6 +67,10 @@ Leia a chamada para submissões em português europeu.
 
 קראו את הקול קורא להגשות בעברית.
 
+### [ελληνικά](EL/) 🇬🇷
+
+Διαβάστε την πρόσκληση υποβολής προτάσεων στα ελληνικά.
+
 ## Translators
 
 - Kirill Azernyi (RU)
