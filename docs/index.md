@@ -96,6 +96,10 @@ Leia a chamada para submissões em português europeu.
 
 If you are interested in translating this call for submissions into another language that is not already available, please contact us at [elcvol5@gmail.com](mailto:elcvol5@gmail.com).
 
+## Questions?
+
+Check our list of [Frequently Asked Questions](faq.html).
+
 ## About the Electronic Literature Organization
 
 The Electronic Literature Organization (ELO) is an international organization dedicated to the writing, publishing, and reading of electronic literature.
