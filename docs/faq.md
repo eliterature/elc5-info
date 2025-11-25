@@ -28,3 +28,11 @@ We welcome works that use such technologies in order to defamiliarize hegemonic 
 ## Do you offer compensation for submissions accepted?
 
 Unfortunately, we cannot offer compensation. The ELC5 team is a collection of volunteers working with the larger Electronic Literature Organization, which is a 501c(3) non-profit organization.
+
+## Can I submit work that has been previously published elsewhere?
+
+Yes, but it is your responsibility to ensure that your previous publication venue has granted permission for republication and that you hold the rights necessary to submit the work to ELC5. When submitting a previously published piece, please disclose the prior publication venue, date, and URL (if available) and, if possible, confirm you retain, or are obtaining, the right to grant ELC a non‑exclusive license to publish, archive, and display the work online.
+
+## Can I submit or nominate a work that has been created by others? 
+
+Yes, the ELC5 does allow the nomination or submission of works not created by the submitter. However, we do encourage anyone considering nominating the work of other creator(s) to consider first contacting the creator(s) and encouraging them to submit their work, if possible. In all cases, we ask you to disclose that you are not the work's creator when completing the submission form. 
