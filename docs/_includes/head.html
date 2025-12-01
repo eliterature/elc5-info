@@ -40,5 +40,94 @@
   <!-- Canonical URL -->
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   
+  <!-- Alternate language versions (hreflang) -->
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}/EN/" />
+  <link rel="alternate" hreflang="es" href="{{ site.url }}{{ site.baseurl }}/ES/" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}{{ site.baseurl }}/FR/" />
+  <link rel="alternate" hreflang="de" href="{{ site.url }}{{ site.baseurl }}/DE/" />
+  <link rel="alternate" hreflang="it" href="{{ site.url }}{{ site.baseurl }}/IT/" />
+  <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ site.baseurl }}/JA/" />
+  <link rel="alternate" hreflang="ar" href="{{ site.url }}{{ site.baseurl }}/AR/" />
+  <link rel="alternate" hreflang="he" href="{{ site.url }}{{ site.baseurl }}/HE/" />
+  <link rel="alternate" hreflang="da" href="{{ site.url }}{{ site.baseurl }}/DA/" />
+  <link rel="alternate" hreflang="fi" href="{{ site.url }}{{ site.baseurl }}/FI/" />
+  <link rel="alternate" hreflang="pt-BR" href="{{ site.url }}{{ site.baseurl }}/PT-BR/" />
+  <link rel="alternate" hreflang="pt-PT" href="{{ site.url }}{{ site.baseurl }}/PT-PT/" />
+  <link rel="alternate" hreflang="ru" href="{{ site.url }}{{ site.baseurl }}/RU/" />
+  <link rel="alternate" hreflang="zh" href="{{ site.url }}{{ site.baseurl }}/ZH/" />
+  <link rel="alternate" hreflang="el" href="{{ site.url }}{{ site.baseurl }}/EL/" />
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}/" />
+  
   <link rel="icon" type="image/x-icon" href="{{ "/assets/images/favicon.ico" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  
+  <!-- Breadcrumb Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ site.url }}{{ site.baseurl }}/"
+      }
+      {% if page.lang %}
+      ,{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{% if page.lang == 'en' %}English{% elsif page.lang == 'es' %}Español{% elsif page.lang == 'fr' %}Français{% elsif page.lang == 'de' %}Deutsch{% elsif page.lang == 'it' %}Italiano{% elsif page.lang == 'ja' %}日本語{% elsif page.lang == 'ar' %}العربية{% elsif page.lang == 'he' %}עברית{% elsif page.lang == 'da' %}Dansk{% elsif page.lang == 'fi' %}Suomi{% elsif page.lang == 'pt' %}Português{% elsif page.lang == 'ru' %}Русский{% elsif page.lang == 'zh' %}中文{% elsif page.lang == 'el' %}ελληνικά{% endif %}",
+        "item": "{{ page.url | absolute_url }}"
+      }
+      {% endif %}
+    ]
+  }
+  </script>
+  
+  <!-- Organization Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Electronic Literature Organization",
+    "url": "{{ site.url }}{{ site.baseurl }}/",
+    "logo": "{{ '/assets/images/elc5-logo.png' | absolute_url }}",
+    "description": "{{ site.description }}",
+    "sameAs": [
+      "https://eliterature.org"
+    ]
+  }
+  </script>
+  
+  <!-- Event Schema for Submission Call -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Electronic Literature Collection Volume 5 - Call for Submissions",
+    "description": "{{ site.description }}",
+    "startDate": "2025-10-13",
+    "endDate": "2026-01-06",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "{{ site.url }}{{ site.baseurl }}/"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Electronic Literature Organization",
+      "url": "https://eliterature.org"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "validFrom": "2025-10-13",
+      "validThrough": "2026-01-06"
+    }
+  }
+  </script>
