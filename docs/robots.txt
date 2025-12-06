@@ -26,6 +26,7 @@ Allow: /PT-PT/
 Allow: /RU/
 Allow: /ZH/
 Allow: /EL/
+Allow: /BN/
 
 # Allow assets
 Allow: /assets/
