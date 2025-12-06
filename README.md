@@ -71,6 +71,7 @@ Leia a chamada para submissões em português europeu.
 
 קראו את הקול קורא להגשות בעברית.
 
+
 ## Translators
 
 - Kirill Azernyi (RU)
@@ -85,6 +86,7 @@ Leia a chamada para submissões em português europeu.
 - Weiling Wang (ZH)
 - Élika Ortega (ES)
 - Eyal Gruss (HE)
+- Samya Brata Roy (BN)
 
 ## Important Dates
 
