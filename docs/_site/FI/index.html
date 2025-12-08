@@ -15,10 +15,10 @@
   
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="http://localhost:4000/FI/">
+  <meta property="og:url" content="http://localhost:4000/elc5-info/FI/">
   <meta property="og:title" content="Teoshaku">
   <meta property="og:description" content="The Electronic Literature Organization (ELO) seeks submissions for Volume 5 of the Electronic Literature Collection.">
-  <meta property="og:image" content="http://localhost:4000/assets/images/elc5-logo.png">
+  <meta property="og:image" content="http://localhost:4000/elc5-info/assets/images/elc5-logo.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="Electronic Literature Collection Volume 5 Logo">
@@ -27,10 +27,10 @@
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:url" content="http://localhost:4000/FI/">
+  <meta name="twitter:url" content="http://localhost:4000/elc5-info/FI/">
   <meta name="twitter:title" content="Teoshaku">
   <meta name="twitter:description" content="The Electronic Literature Organization (ELO) seeks submissions for Volume 5 of the Electronic Literature Collection.">
-  <meta name="twitter:image" content="http://localhost:4000/assets/images/elc5-logo.png">
+  <meta name="twitter:image" content="http://localhost:4000/elc5-info/assets/images/elc5-logo.png">
   <meta name="twitter:image:alt" content="Electronic Literature Collection Volume 5 Logo">
  
 
@@ -42,10 +42,100 @@
   <meta name="theme-color" content="#667eea">
   
   <!-- Canonical URL -->
-  <link rel="canonical" href="http://localhost:4000/FI/">
+  <link rel="canonical" href="http://localhost:4000/elc5-info/FI/">
   
-  <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <!-- Alternate language versions (hreflang) -->
+  <link rel="alternate" hreflang="en" href="http://localhost:4000/elc5-info/EN/" />
+  <link rel="alternate" hreflang="es" href="http://localhost:4000/elc5-info/ES/" />
+  <link rel="alternate" hreflang="fr" href="http://localhost:4000/elc5-info/FR/" />
+  <link rel="alternate" hreflang="de" href="http://localhost:4000/elc5-info/DE/" />
+  <link rel="alternate" hreflang="it" href="http://localhost:4000/elc5-info/IT/" />
+  <link rel="alternate" hreflang="ja" href="http://localhost:4000/elc5-info/JA/" />
+  <link rel="alternate" hreflang="ar" href="http://localhost:4000/elc5-info/AR/" />
+  <link rel="alternate" hreflang="he" href="http://localhost:4000/elc5-info/HE/" />
+  <link rel="alternate" hreflang="da" href="http://localhost:4000/elc5-info/DA/" />
+  <link rel="alternate" hreflang="fi" href="http://localhost:4000/elc5-info/FI/" />
+  <link rel="alternate" hreflang="pt-BR" href="http://localhost:4000/elc5-info/PT-BR/" />
+  <link rel="alternate" hreflang="pt-PT" href="http://localhost:4000/elc5-info/PT-PT/" />
+  <link rel="alternate" hreflang="ru" href="http://localhost:4000/elc5-info/RU/" />
+  <link rel="alternate" hreflang="zh" href="http://localhost:4000/elc5-info/ZH/" />
+  <link rel="alternate" hreflang="el" href="http://localhost:4000/elc5-info/EL/" />
+  <link rel="alternate" hreflang="bn" href="http://localhost:4000/elc5-info/BN/" />
+  <link rel="alternate" hreflang="x-default" href="http://localhost:4000/elc5-info/" />
+  
+  <link rel="icon" type="image/x-icon" href="/elc5-info/assets/images/favicon.ico">
+  <link rel="stylesheet" href="/elc5-info/assets/css/style.css">
+  
+  <!-- Breadcrumb Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "http://localhost:4000/elc5-info/"
+      }
+      
+      ,{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Suomi",
+        "item": "http://localhost:4000/elc5-info/FI/"
+      }
+      
+    ]
+  }
+  </script>
+  
+  <!-- Organization Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Electronic Literature Organization",
+    "url": "http://localhost:4000/elc5-info/",
+    "logo": "http://localhost:4000/elc5-info/assets/images/elc5-logo.png",
+    "description": "The Electronic Literature Organization (ELO) seeks submissions for Volume 5 of the Electronic Literature Collection.",
+    "sameAs": [
+      "https://eliterature.org"
+    ]
+  }
+  </script>
+  
+  <!-- Event Schema for Submission Call -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Electronic Literature Collection Volume 5 - Call for Submissions",
+    "description": "The Electronic Literature Organization (ELO) seeks submissions for Volume 5 of the Electronic Literature Collection.",
+    "startDate": "2025-10-13",
+    "endDate": "2026-01-06",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "http://localhost:4000/elc5-info/"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Electronic Literature Organization",
+      "url": "https://eliterature.org"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "url": "http://localhost:4000/elc5-info/",
+      "validFrom": "2025-10-13",
+      "validThrough": "2026-01-06"
+    }
+  }
+  </script>
 </head>
 
 <body>
@@ -53,14 +143,14 @@
 
   <header class="site-header">
     <h1 class="site-title">
-      <a href="/">Call for Submissions</a>
+      <a href="/elc5-info/">Call for Submissions</a>
     </h1>
 
     <h2 class="site-subtitle">Electronic Literature Collection Volume 5</h2>
 
     <div class="wrapper">
       <div class="header-content">
-        <img src="/assets/images/elc5-logo.png"
+        <img src="/elc5-info/assets/images/elc5-logo.png"
           alt="Electronic Literature Collection Volume 5 Logo" class="site-logo">
        
       </div>
@@ -74,23 +164,24 @@
     <div class="wrapper">
       <p class="language-heading" id="language-heading">Available Languages:</p>
       <ul class="language-list" role="list" aria-labelledby="language-heading">
-        <li><a href="/EN/" hreflang="en" aria-label="View in English">English</a></li>
-        <li><a href="/ES/" hreflang="es" aria-label="Ver en Español.">Español</a></li>
-        <li><a href="/FR/" hreflang="fr" aria-label="Voir en français">Français</a></li>
-        <li><a href="/DE/" hreflang="de" aria-label="Auf Deutsch ansehen">Deutsch</a></li>
-        <li><a href="/IT/" hreflang="it" aria-label="Visualizza in italiano">Italiano</a></li>
-        <li><a href="/JA/" hreflang="ja" aria-label="日本語で表示">日本語</a></li>
-        <li><a href="/AR/" hreflang="ar" aria-label="عرض باللغة العربية">العربية</a></li>
-        <li><a href="/HE/" hreflang="he" aria-label="צפה בעברית">עברית</a></li>
-        <li><a href="/DA/" hreflang="da" aria-label="Se på dansk">Dansk</a></li>
-        <li><a href="/FI/" hreflang="fi" aria-label="Näytä suomeksi">Suomi</a></li>
-        <li><a href="/PT-BR/" hreflang="pt-BR"
+        <li><a href="/elc5-info/EN/" hreflang="en" aria-label="View in English">English</a></li>
+        <li><a href="/elc5-info/ES/" hreflang="es" aria-label="Ver en Español.">Español</a></li>
+        <li><a href="/elc5-info/FR/" hreflang="fr" aria-label="Voir en français">Français</a></li>
+        <li><a href="/elc5-info/DE/" hreflang="de" aria-label="Auf Deutsch ansehen">Deutsch</a></li>
+        <li><a href="/elc5-info/IT/" hreflang="it" aria-label="Visualizza in italiano">Italiano</a></li>
+        <li><a href="/elc5-info/JA/" hreflang="ja" aria-label="日本語で表示">日本語</a></li>
+        <li><a href="/elc5-info/AR/" hreflang="ar" aria-label="عرض باللغة العربية">العربية</a></li>
+        <li><a href="/elc5-info/HE/" hreflang="he" aria-label="צפה בעברית">עברית</a></li>
+        <li><a href="/elc5-info/DA/" hreflang="da" aria-label="Se på dansk">Dansk</a></li>
+        <li><a href="/elc5-info/FI/" hreflang="fi" aria-label="Näytä suomeksi">Suomi</a></li>
+        <li><a href="/elc5-info/PT-BR/" hreflang="pt-BR"
             aria-label="Ver em português brasileiro">Português (BR)</a></li>
-        <li><a href="/PT-PT/" hreflang="pt-PT" aria-label="Ver em português europeu">Português
+        <li><a href="/elc5-info/PT-PT/" hreflang="pt-PT" aria-label="Ver em português europeu">Português
             (PT)</a></li>
-        <li><a href="/RU/" hreflang="ru" aria-label="Просмотреть на русском языке">Русский</a></li>
-        <li><a href="/ZH/" hreflang="zh" aria-label="查看中文版本">中文</a></li>
-        <li><a href="/EL/" hreflang="el" aria-label="ελληνικά">ελληνικά</a></li>
+        <li><a href="/elc5-info/RU/" hreflang="ru" aria-label="Просмотреть на русском языке">Русский</a></li>
+        <li><a href="/elc5-info/ZH/" hreflang="zh" aria-label="查看中文版本">中文</a></li>
+        <li><a href="/elc5-info/EL/" hreflang="el" aria-label="ελληνικά">ελληνικά</a></li>
+        <li><a href="/elc5-info/BN/" hreflang="bn" aria-label="বাংলায় দেখুন">বাংলা</a></li>
       </ul>
     </div>
   </nav>

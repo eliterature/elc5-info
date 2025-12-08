@@ -71,6 +71,14 @@ Leia a chamada para submissões em português europeu.
 
 קראו את הקול קורא להגשות בעברית.
 
+### [ελληνικά](https://eliterature.github.io/elc5-info/EL/) 🇬🇷
+
+Διαβάστε την πρόσκληση υποβολής προτάσεων στα ελληνικά.
+
+### [বাংলা](https://eliterature.github.io/elc5-info/BN/) 🇧🇩
+
+বাংলায় জমা দেওয়ার আহ্বান পড়ুন।
+
 ## Translators
 
 - Kirill Azernyi (RU)
@@ -82,9 +90,11 @@ Leia a chamada para submissões em português europeu.
 - Roberta Iadevaia (IT)
 - Terhi Marttila (FI)
 - Vinícius Pereira (PT)
+- Samya Brata Roy (BN)
 - Weiling Wang (ZH)
 - Élika Ortega (ES)
 - Eyal Gruss (HE)
+- Ilan Manouach (EL)
 
 ## Important Dates
 
