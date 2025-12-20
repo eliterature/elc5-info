@@ -7,7 +7,7 @@ lang: pt-br
 
 ### Electronic Literature Collection Volume 5
 
-Submissões abertas: 13 de outubro de 2025 -- 6 de janeiro de 2026
+Submissões abertas: 13 de outubro de 2025 -- ~~6 de janeiro de 2026~~ 31 de janeiro de 2026
 
 A *Electronic Literature Organization* (ELO) abre chamada para
 submissões para o Volume 5 da *Electronic Literature Collection*.
@@ -98,7 +98,7 @@ Por favor, envie as submissões usando [este formulário](https://forms.gle/Ftir
 
 - Uma breve declaração do artista/autor, incluindo eventuais avisos de conteúdo (\~200 palavras).
 
-**Prazo final:** 6 de janeiro de 2026
+**Prazo final:** ~~6 de janeiro de 2026~~ 31 de janeiro de 2026
 
 ## O Coletivo Editorial da ELC5
 

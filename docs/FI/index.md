@@ -7,7 +7,7 @@ lang: fi
 
 ### Electronic Literature Collection Volume 5  
 
-Teoshaku auki: 13. lokakuuta 2025 – 6. tammikuuta 2026
+Teoshaku auki: 13. lokakuuta 2025 – ~~6. tammikuuta 2026~~ 31. tammikuuta 2026
 
 Electronic Literature Organization (ELO) etsii teosehdotuksia viidenteen *Electronic Literature Collection* \-kokoelmaan (ELC5).
 
@@ -41,7 +41,7 @@ Lähetä teosehdotuksesi [tämän hakulomakkeen kautta](https://forms.gle/Ftir1r
 * (Valinnainen) Videotallenne teoksen kokonaiskokemuksesta tai muu kuvaus (teksti, kuvat) josta käy ilmi teoksen keskeiset ominaisuudet, estetiikka ja tuntu siinä tapauksessa että teosta ei voi helposti itse kokea, pelata tai kokeilla.  
 * Lyhyt taiteilijan sana/tekijän lausunto ml. mahdolliset sisältövaroitukset (\~200 sanaa).
 
-#### Määräaika: 6. tammikuuta 2026
+#### Määräaika: ~~6. tammikuuta 2026~~ 31. tammikuuta 2026
 
 ### ELC5-toimituskollektiivi
 

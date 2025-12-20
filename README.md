@@ -98,7 +98,7 @@ Leia a chamada para submissões em português europeu.
 
 ## Important Dates
 
-**Submission Period**: October 13, 2025 - January 6, 2026
+**Submission Period**: October 13, 2025 - ~~January 6, 2026~~ January 31, 2026
 
 ## Interested in Translating Our Call?
 
