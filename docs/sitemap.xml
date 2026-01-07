@@ -27,8 +27,6 @@ layout: null
     <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
     <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
     <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
-    <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
   </url>
   
@@ -53,8 +51,6 @@ layout: null
     <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
     <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
     <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
-    <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
     <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
   </url>
@@ -419,8 +415,6 @@ layout: null
     <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
     <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
     <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
-    <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
   </url>
   
@@ -445,8 +439,6 @@ layout: null
     <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
     <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
     <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
-    <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
     <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
   </url>
