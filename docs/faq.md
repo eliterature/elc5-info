@@ -35,4 +35,8 @@ Yes, but it is your responsibility to ensure that your previous publication venu
 
 ## Can I submit or nominate a work that has been created by others? 
 
-Yes, the ELC5 does allow the nomination or submission of works not created by the submitter. However, we do encourage anyone considering nominating the work of other creator(s) to consider first contacting the creator(s) and encouraging them to submit their work, if possible. In all cases, we ask you to disclose that you are not the work's creator when completing the submission form. 
+Yes, the ELC5 does allow the nomination or submission of works not created by the submitter. However, we do encourage anyone considering nominating the work of other creator(s) to consider first contacting the creator(s) and encouraging them to submit their work, if possible. In all cases, we ask you to disclose that you are not the work's creator when completing the submission form.
+
+## I'm having trouble with the submission form or do not want to use a Google account. Can I still submit something?
+
+The Google form requires responders to sign in because it includes file upload fields. If you do not have a Google account, you can use this [spreadsheet template](https://docs.google.com/spreadsheets/d/149fXDkGx5_PWsKSg6iXu0h2sPMVAV71voVq9C7wKpCI/edit?usp=sharing) as an alternative. Be sure to email [the editors](mailto:elcvol5@gmail.com) with the filled spreadsheet or any questions.
