@@ -1,5 +1,11 @@
 # Electronic Literature Collection Volume 5
 
+SUBMISSIONS ARE NOW CLOSED.
+
+## Interested in updates?
+
+We have added [a blog]((https://eliterature.github.io/elc5-info/blog/)) and a [RSS feed]((https://eliterature.github.io/elc5-info/index.rss)).
+
 ## Editorial Collective
 
 - Dan Cox
@@ -98,7 +104,7 @@ Leia a chamada para submissões em português europeu.
 
 ## Important Dates
 
-**Submission Period**: October 13, 2025 - ~~January 6, 2026~~ January 31, 2026
+**Submission Period**: October 13, 2025 - ~~January 6, 2026~~ ~~January 31, 2026~~
 
 ## Interested in Translating Our Call?
 

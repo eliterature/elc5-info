@@ -5,7 +5,11 @@ title: Call for Submissions
 
 ## Welcome to ELC5 Call for Submissions
 
-The **Electronic Literature Organization (ELO)** seeks submissions for Volume 5 of the _Electronic Literature Collection_.
+**SUBMISSIONS NOW CLOSED.**
+
+## Interested in updates?
+
+We have added [a blog](blog/) and a [RSS feed](feed.xml).
 
 ## Available in Multiple Languages
 
@@ -63,7 +67,7 @@ Leia a chamada para submissões em português europeu.
 
 阅读中文版投稿征集。
 
-### [עִברִית](https://eliterature.github.io/elc5-info/HE/) 🇮🇱
+### [עִברִית](HE/) 🇮🇱
 
 קראו את הקול קורא להגשות בעברית.
 
@@ -96,7 +100,7 @@ Leia a chamada para submissões em português europeu.
 
 ## Important Dates
 
-**Submission Period**: October 13, 2025 - ~~January 6, 2026~~ January 31, 2026
+**Submission Period**: October 13, 2025 - ~~January 6, 2026~~ ~~January 31, 2026~~ SUBMISSIONS NOW CLOSED.
 
 ## Interested in Translating Our Call?
 
@@ -104,7 +108,7 @@ If you are interested in translating this call for submissions into another lang
 
 ## Questions?
 
-Check our list of [Frequently Asked Questions](faq.html).
+Check our list of [Frequently Asked Questions](faq/).
 
 ## About the Electronic Literature Organization
 

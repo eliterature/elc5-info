@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+<head>
+{% include head.html %}
+</head>
+
+
+<body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  {% include blog-header.html %}
+
+  <main class="page-content" id="main-content">
+    <div class="wrapper">
+      <article class="blog-post">
+        <header class="post-header">
+          <h2 class="post-title">{{ page.title }}</h2>
+          <div class="post-meta">
+            <em><time datetime="{{ page.date | date_to_xmlschema }}">
+              {{ page.date | date: "%B %d, %Y" }}
+            </time></em>
+          </div>
+        </header>
+        
+        <div class="post-content">
+          {{ content }}
+        </div>
+      </article>
+      
+      {% if page.date %}
+      <nav class="blog-navigation">
+        <a href="{{ '/blog/' | relative_url }}" class="back-to-blog">← Back to Blog</a>
+      </nav>
+      {% endif %}
+    </div>
+  </main>
+
+{% include footer.html %}
+</body>
+
+</html>

@@ -7,7 +7,7 @@ lang: fr
 
 ### Collection de littérature numérique Volume 5
 
-Dates limites de soumission des propositions: 13 octobre 2025 - ~~6 janvier 2026~~ 31 janvier 2026
+Dates limites de soumission des propositions: 13 octobre 2025 - ~~6 janvier 2026~~ ~~31 janvier 2026~~
 
 *Electronic Literature Organization* (ELO) lance un appel à
 contributions pour le volume 5 de l'*Electronic Literature Collection*
@@ -105,7 +105,7 @@ Veuillez soumettre vos candidatures via [ce formulaire](https://forms.gle/Ftir1r
 
 - Une brève déclaration de l'artiste/auteur, incluant tout avertissement pertinent concernant le contenu (environ 200 mots).
 
-**Date limite de soumission:** ~~6 janvier 2026~~ 31 janvier 2026
+**Date limite de soumission:** ~~6 janvier 2026~~ ~~31 janvier 2026~~
 
 ## Collectif éditorial ELC5
 
