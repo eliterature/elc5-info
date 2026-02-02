@@ -7,7 +7,7 @@ lang: zh
 
 ### 电子文学作品集-第五期（Electronic Literature Collection Volume 5）
 
-**投稿日期：** 2025.10.13 - ~~2026.01.06~~ ~~2026.01.31~~
+**投稿日期：** ~~2025.10.13 - ~~2026.01.06~~ ~~2026.01.31~~
 
 电子文学组织（Electronic Literature Organization, ELO）现征集《电子文学作品集》第五期（Electronic Literature Collection Volume 5）的投稿。
 

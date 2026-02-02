@@ -7,7 +7,7 @@ lang: da
 
 ### Electronic Literature Collection Volume 5
 
-Indsend dit bidrag mellem d. 13. oktober 2025 og d. ~~6. januar 2026~~ ~~31. januar 2026~~
+Indsend dit bidrag mellem ~~d. 13. oktober 2025 og d. ~~6. januar 2026~~ ~~31. januar 2026~~
 
 Electronic Literature Organization (ELO) søger bidrag til den femte
 udgave af *Electronic Literature Collection* (ELC).

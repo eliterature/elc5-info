@@ -7,7 +7,7 @@ lang: en
 
 ### Electronic Literature Collection Volume 5
 
-Accepting submissions: October 13, 2025 - ~~January 6, 2026~~ ~~January 31, 2026~~
+Accepting submissions: ~~October 13, 2025 - ~~January 6, 2026~~ ~~January 31, 2026~~
 
 The Electronic Literature Organization (ELO) seeks submissions for
 Volume 5 of the *Electronic Literature Collection*.

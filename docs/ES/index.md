@@ -7,7 +7,7 @@ lang: es
 
 ### Colección de Literatura Electrónica, Volumen 5
 
-Plazo de presentación de propuestas: del 13 de octubre de 2025 al ~~6 de enero de 2026~~ ~~31 de enero de 2026~~
+Plazo de presentación de propuestas: ~~del 13 de octubre de 2025 al ~~6 de enero de 2026~~ ~~31 de enero de 2026~~
 
 La Organización de Literatura Electrónica (ELO) solicita propuestas para el volumen 5 de la Colección de Literatura Electrónica.
 
