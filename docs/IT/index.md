@@ -7,7 +7,7 @@ lang: it
 
 ### Electronic Literature Collection Volume 5
 
-Accettazione proposte: ~~13 ottobre 2025 - ~~6 gennaio 2026~~ ~~31 gennaio 2026~~
+Presentazione proposte chiusa: 31 gennaio 2026
 
 La Electronic Literature Organization (ELO) è alla ricerca di proposte
 per il Volume 5 della *Electronic Literature Collection* (ELC).

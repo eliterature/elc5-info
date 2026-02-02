@@ -7,7 +7,7 @@ lang: de
 
 ### Electronic Literature Collection Volume 5
 
-Einreichungsfrist: ~~13. Oktober 2025 bis ~~6. Januar 2026~~ ~~31. Januar 2026~~
+Einreichungsfrist abgelaufen: 31. Januar 2026
 
 Die Electronic Literature Organization (ELO) bittet um Einreichungen für
 Band 5 der *Electronic Literature Collection.*
