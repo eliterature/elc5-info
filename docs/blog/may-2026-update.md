@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "May 2026 Update"
-date: 2026-04-08
+date: 2026-05-12
 author: "ELC5 Editorial Collective"
 permalink: /blog/may-2026-update/
 ---
@@ -14,7 +14,7 @@ The primary goal of Round 0 reviewing was two-fold. First, we wanted to check if
 
 In late April 2026, we completed this work and compiled the following data:
 
-## Publication Status
+### Publication Status
 
 | **Previously Documented?**          | **Percentage** |
 |-------------------------------------|----------------|
@@ -30,7 +30,7 @@ In late April 2026, we completed this work and compiled the following data:
 | Collaborations                                                    | 7%             |
 | *Note: 50% of collaborations consisted of three or more people.*  |                |
 
-## Creator Nationality
+### Creator Nationality
 
 | **Region**                                                                                                                 | **Percentage**  |
 |----------------------------------------------------------------------------------------------------------------------------|-----------------|
