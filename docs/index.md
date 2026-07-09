@@ -108,7 +108,7 @@ If you are interested in translating this call for submissions into another lang
 
 ## Questions?
 
-Check our list of [Frequently Asked Questions](faq/).
+Check our list of [Frequently Asked Questions](faq.html).
 
 ## About the Electronic Literature Organization
 
