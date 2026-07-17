@@ -1,7 +1,18 @@
 title: Call for Submissions
 description: The Electronic Literature Organization (ELO) seeks submissions for Volume 5 of the Electronic Literature Collection.
-url: https://eliterature.github.io/elc5-info
+url: https://eliterature.github.io
 baseurl: /elc5-info
 # Using default Jekyll theme with custom CSS
 plugins:
   - jekyll-feed
+
+# Blog posts live as a custom collection (not _posts)
+collections:
+  blog:
+    output: true
+
+# Include the blog collection in a dedicated RSS feed
+feed:
+  collections:
+    blog:
+      path: "/blog/feed.xml"

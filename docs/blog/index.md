@@ -5,7 +5,7 @@ title: Blog
 
 Stay up to date with the latest news and updates about the Electronic Literature Collection Volume 5.
 
-{% assign posts = site.pages | where_exp: "page", "page.path contains 'blog/'" | where_exp: "page", "page.name != 'index.md'" | sort: "date" | reverse %}
+{% assign posts = site.blog | sort: "date" | reverse %}
 
 {% for post in posts %}
   {% if post.title %}
@@ -24,4 +24,4 @@ Stay up to date with the latest news and updates about the Electronic Literature
 
 ---
 
-Subscribe to our [RSS feed]({{ "/feed.xml" | relative_url }}) to stay updated.
+Subscribe to our [RSS feed]({{ "/blog/feed.xml" | relative_url }}) to stay updated.
