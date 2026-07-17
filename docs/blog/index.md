@@ -24,4 +24,4 @@ Stay up to date with the latest news and updates about the Electronic Literature
 
 ---
 
-Subscribe to our [RSS feed]({{ "/blog/feed.xml" | relative_url }}) to stay updated.
+Subscribe to our [RSS feed]({{ "/feed.xml" | relative_url }}) to stay updated.

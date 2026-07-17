@@ -11,8 +11,11 @@ collections:
   blog:
     output: true
 
-# Include the blog collection in a dedicated RSS feed
+# Serve the blog collection as the site's central feed at /feed.xml.
+# There are no _posts, so the default (empty) posts feed is moved aside
+# to avoid colliding with the blog feed at /feed.xml.
 feed:
+  path: "/feed/posts.xml"
   collections:
     blog:
-      path: "/blog/feed.xml"
+      path: "/feed.xml"
