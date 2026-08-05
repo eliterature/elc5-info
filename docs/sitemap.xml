@@ -7,445 +7,445 @@ layout: null
   
   <!-- Homepage -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- English -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Spanish -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- French -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- German -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Italian -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Japanese -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Arabic -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Hebrew -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Danish -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Finnish -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Portuguese (Brazil) -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Portuguese (Portugal) -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Russian -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Chinese -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
     <xhtml:link rel="alternate" hreflang="x-default"| default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Greek -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- Bengali -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EN/" />
-    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ES/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DE/" />
-    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/IT/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/JA/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/AR/" />
-    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/HE/" />
-    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/DA/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/FI/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-BR/" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/PT-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/RU/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/ZH/" />
-    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/EL/" />
-    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/BN/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/" />
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EN/" />
+    <xhtml:link rel="alternate" hreflang="es" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ES/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DE/" />
+    <xhtml:link rel="alternate" hreflang="it" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/IT/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/JA/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/AR/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/HE/" />
+    <xhtml:link rel="alternate" hreflang="da" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/DA/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/FI/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/PT-PT/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/RU/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/ZH/" />
+    <xhtml:link rel="alternate" hreflang="el" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/EL/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/BN/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/" />
   </url>
   
   <!-- FAQ Page -->
   <url>
-    <loc>{{ site.url | default: 'https://eliterature.github.io/elc5-info' }}/faq.html</loc>
+    <loc>{{ site.url | default: 'https://eliterature.github.io' }}{{ site.baseurl }}/faq.html</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
